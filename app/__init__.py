@@ -4,4 +4,4 @@ app = Flask(__name__, static_folder='./templates', static_url_path='') # change 
 app.config.from_object("config")
 
 from app import views
-# from app import controllers
+from app import controllers

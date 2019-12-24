@@ -1,0 +1,122 @@
+[
+  {
+    "number": 0,
+    "word": "Tab",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 161,
+        "y": 97
+      },
+      {
+        "x": 205,
+        "y": 97
+      },
+      {
+        "x": 205,
+        "y": 119
+      },
+      {
+        "x": 161,
+        "y": 119
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "CapsLock",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 213
+      },
+      {
+        "x": 261,
+        "y": 217
+      },
+      {
+        "x": 260,
+        "y": 242
+      },
+      {
+        "x": 148,
+        "y": 238
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "\u5408",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 134,
+        "y": 335
+      },
+      {
+        "x": 161,
+        "y": 338
+      },
+      {
+        "x": 158,
+        "y": 363
+      },
+      {
+        "x": 131,
+        "y": 360
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "Shift",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 166,
+        "y": 342
+      },
+      {
+        "x": 218,
+        "y": 348
+      },
+      {
+        "x": 215,
+        "y": 370
+      },
+      {
+        "x": 164,
+        "y": 364
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "Ctrl",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 105,
+        "y": 479
+      },
+      {
+        "x": 157,
+        "y": 485
+      },
+      {
+        "x": 154,
+        "y": 512
+      },
+      {
+        "x": 102,
+        "y": 506
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "number": 0,
+    "word": "Q",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 284,
+        "y": 172
+      },
+      {
+        "x": 302,
+        "y": 172
+      },
+      {
+        "x": 302,
+        "y": 188
+      },
+      {
+        "x": 284,
+        "y": 188
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "Tab",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 129,
+        "y": 202
+      },
+      {
+        "x": 162,
+        "y": 201
+      },
+      {
+        "x": 163,
+        "y": 219
+      },
+      {
+        "x": 130,
+        "y": 220
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "CapsLock",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 124,
+        "y": 298
+      },
+      {
+        "x": 209,
+        "y": 297
+      },
+      {
+        "x": 209,
+        "y": 316
+      },
+      {
+        "x": 124,
+        "y": 317
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "1",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 137,
+        "y": 397
+      },
+      {
+        "x": 149,
+        "y": 398
+      },
+      {
+        "x": 148,
+        "y": 421
+      },
+      {
+        "x": 136,
+        "y": 420
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "Shift",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 151,
+        "y": 398
+      },
+      {
+        "x": 185,
+        "y": 400
+      },
+      {
+        "x": 184,
+        "y": 423
+      },
+      {
+        "x": 150,
+        "y": 421
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "Ctrl",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 105,
+        "y": 518
+      },
+      {
+        "x": 139,
+        "y": 519
+      },
+      {
+        "x": 138,
+        "y": 538
+      },
+      {
+        "x": 104,
+        "y": 537
+      }
+    ]
+  }
+]

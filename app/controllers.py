@@ -5,6 +5,13 @@ from flask import Response
 from flask_uploads import UploadSet, configure_uploads, IMAGES, patch_request_class
 from datetime import datetime
 import os
+import shutil
+import json
+import base64
+
+photos = UploadSet('photos', IMAGES)
+app.config['UPLOADED_PHOTOS_DEST'] = './app/caches'
+configure_uploads(app, photos)
 
 @app.route('/imageocr', methods=['GET', 'POST'])
 def image():
@@ -16,7 +23,7 @@ def image():
             print('receive package stamp: ' + stamp)
             ### save imageFile
             image_path = "./app/caches/"+stamp+'.png'
-            image_file = b64decode(request.json['imageFile'])
+            image_file = base64.b64decode(request.json['imageFile'])
             with open(image_path,"wb") as f:
                 f.write(image_file)
             # filename = photos.save(image_file, stamp+'.png') ## for jpg/png format
@@ -54,12 +61,13 @@ def label():
     # print(request.json)
     if request.method == 'POST':
         if 'labelByUser' in request.json and 'stamp' in request.json:
+            stamp = request.json['stamp']
             ### save json
-            json_path = "./app/caches/"+stamp+'_user.json'
+            json_path = "./app/caches/"+stamp+'_labeled.json'
             with open(json_path, 'w') as f:
                 json.dump(request.json['labelByUser'], f, indent=2)
             print('saved ' + json_path)
-            message = {'saved json': stamp+'_user'}
+            message = {'saved json': stamp+'_labeled'}
         else:
             message = {'save faild ':name+'.json'}
         return jsonify(status=200, msg=message)
@@ -74,7 +82,7 @@ def ocr():
     # payload = json.dump(request.json)
     # r = requests.post(url, json = request.json)
     # print (request.json['responses'])
-    print(request.json.keys())
+    # print(request.json.keys())
     # if request.method == 'POST' and 'responses' in request.json:
     #     request.json['responses_raw'] = request.json['responses']
     return Response(response=json.dumps(request.json), status=200, mimetype='application/json')

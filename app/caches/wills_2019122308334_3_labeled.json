@@ -1,0 +1,152 @@
+[
+  {
+    "number": 0,
+    "word": "F12",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 4,
+        "word": "F12",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 239,
+            "y": 25
+          },
+          {
+            "x": 258,
+            "y": 24
+          },
+          {
+            "x": 258,
+            "y": 33
+          },
+          {
+            "x": 239,
+            "y": 34
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 25,
+        "x": 239
+      },
+      {
+        "y": 25,
+        "x": 258
+      },
+      {
+        "y": 33,
+        "x": 258
+      },
+      {
+        "y": 33,
+        "x": 239
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "Backspace",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 13,
+        "word": "Backspace",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 209,
+            "y": 123
+          },
+          {
+            "x": 280,
+            "y": 120
+          },
+          {
+            "x": 281,
+            "y": 133
+          },
+          {
+            "x": 210,
+            "y": 136
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 123,
+        "x": 209
+      },
+      {
+        "y": 123,
+        "x": 281
+      },
+      {
+        "y": 133,
+        "x": 281
+      },
+      {
+        "y": 133,
+        "x": 209
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "Ctrl",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 18,
+        "word": "Ctrl",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 304,
+            "y": 438
+          },
+          {
+            "x": 329,
+            "y": 434
+          },
+          {
+            "x": 331,
+            "y": 447
+          },
+          {
+            "x": 306,
+            "y": 451
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 438,
+        "x": 304
+      },
+      {
+        "y": 438,
+        "x": 331
+      },
+      {
+        "y": 447,
+        "x": 331
+      },
+      {
+        "y": 447,
+        "x": 304
+      }
+    ]
+  }
+]

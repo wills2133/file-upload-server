@@ -1,0 +1,4 @@
+# *.pyc
+# app/caches
+# *__pycache__
+# venv

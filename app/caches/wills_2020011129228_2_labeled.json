@@ -1,0 +1,174 @@
+[
+  {
+    "number": 0,
+    "word": "HONEY-HAM-BENNY",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 80,
+        "word": "HONEY",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 43,
+            "y": 331
+          },
+          {
+            "x": 86,
+            "y": 331
+          },
+          {
+            "x": 86,
+            "y": 339
+          },
+          {
+            "x": 43,
+            "y": 339
+          }
+        ]
+      },
+      {
+        "number": 81,
+        "word": "HAM",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 92,
+            "y": 331
+          },
+          {
+            "x": 119,
+            "y": 331
+          },
+          {
+            "x": 119,
+            "y": 340
+          },
+          {
+            "x": 92,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "number": 82,
+        "word": "BENNY",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 126,
+            "y": 332
+          },
+          {
+            "x": 166,
+            "y": 332
+          },
+          {
+            "x": 166,
+            "y": 340
+          },
+          {
+            "x": 126,
+            "y": 340
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 331,
+        "x": 43
+      },
+      {
+        "y": 331,
+        "x": 166
+      },
+      {
+        "y": 340,
+        "x": 166
+      },
+      {
+        "y": 340,
+        "x": 43
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "AVOCADO-BENNY",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 101,
+        "word": "AVOCADO",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 41,
+            "y": 410
+          },
+          {
+            "x": 105,
+            "y": 410
+          },
+          {
+            "x": 105,
+            "y": 419
+          },
+          {
+            "x": 41,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "number": 102,
+        "word": "BENNY",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 112,
+            "y": 409
+          },
+          {
+            "x": 152,
+            "y": 409
+          },
+          {
+            "x": 152,
+            "y": 419
+          },
+          {
+            "x": 112,
+            "y": 419
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 409,
+        "x": 41
+      },
+      {
+        "y": 409,
+        "x": 152
+      },
+      {
+        "y": 419,
+        "x": 152
+      },
+      {
+        "y": 419,
+        "x": 41
+      }
+    ]
+  }
+]

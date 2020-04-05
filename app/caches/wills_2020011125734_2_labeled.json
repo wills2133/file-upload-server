@@ -1,0 +1,102 @@
+[
+  {
+    "number": 0,
+    "word": "PRAWNS",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 130,
+        "word": "PRAWNS",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 260,
+            "y": 442
+          },
+          {
+            "x": 306,
+            "y": 441
+          },
+          {
+            "x": 306,
+            "y": 449
+          },
+          {
+            "x": 260,
+            "y": 450
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 442,
+        "x": 260
+      },
+      {
+        "y": 442,
+        "x": 306
+      },
+      {
+        "y": 449,
+        "x": 306
+      },
+      {
+        "y": 449,
+        "x": 260
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "crostini.",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 172,
+        "word": "crostini.",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 306,
+            "y": 541
+          },
+          {
+            "x": 342,
+            "y": 540
+          },
+          {
+            "x": 342,
+            "y": 551
+          },
+          {
+            "x": 306,
+            "y": 552
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 541,
+        "x": 306
+      },
+      {
+        "y": 541,
+        "x": 342
+      },
+      {
+        "y": 551,
+        "x": 342
+      },
+      {
+        "y": 551,
+        "x": 306
+      }
+    ]
+  }
+]

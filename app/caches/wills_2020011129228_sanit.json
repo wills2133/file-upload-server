@@ -1,0 +1,4802 @@
+[
+  {
+    "number": 0,
+    "word": "weekends",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 50,
+        "y": 16
+      },
+      {
+        "x": 136,
+        "y": 17
+      },
+      {
+        "x": 136,
+        "y": 28
+      },
+      {
+        "x": 50,
+        "y": 27
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "+",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 144,
+        "y": 21
+      },
+      {
+        "x": 150,
+        "y": 21
+      },
+      {
+        "x": 150,
+        "y": 26
+      },
+      {
+        "x": 144,
+        "y": 26
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "holidays:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 158,
+        "y": 17
+      },
+      {
+        "x": 237,
+        "y": 18
+      },
+      {
+        "x": 237,
+        "y": 32
+      },
+      {
+        "x": 158,
+        "y": 31
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "power",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 276,
+        "y": 24
+      },
+      {
+        "x": 328,
+        "y": 23
+      },
+      {
+        "x": 328,
+        "y": 32
+      },
+      {
+        "x": 276,
+        "y": 33
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "hour:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 336,
+        "y": 21
+      },
+      {
+        "x": 379,
+        "y": 20
+      },
+      {
+        "x": 379,
+        "y": 31
+      },
+      {
+        "x": 336,
+        "y": 32
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "1lam",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 51,
+        "y": 38
+      },
+      {
+        "x": 94,
+        "y": 38
+      },
+      {
+        "x": 94,
+        "y": 48
+      },
+      {
+        "x": 51,
+        "y": 48
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "-",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 100,
+        "y": 44
+      },
+      {
+        "x": 107,
+        "y": 44
+      },
+      {
+        "x": 107,
+        "y": 46
+      },
+      {
+        "x": 100,
+        "y": 46
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "2pm",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 115,
+        "y": 39
+      },
+      {
+        "x": 150,
+        "y": 39
+      },
+      {
+        "x": 150,
+        "y": 52
+      },
+      {
+        "x": 115,
+        "y": 52
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "all",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 277,
+        "y": 41
+      },
+      {
+        "x": 298,
+        "y": 41
+      },
+      {
+        "x": 298,
+        "y": 51
+      },
+      {
+        "x": 277,
+        "y": 51
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "brunch",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 308,
+        "y": 41
+      },
+      {
+        "x": 370,
+        "y": 42
+      },
+      {
+        "x": 370,
+        "y": 53
+      },
+      {
+        "x": 308,
+        "y": 52
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "$9%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 380,
+        "y": 42
+      },
+      {
+        "x": 410,
+        "y": 42
+      },
+      {
+        "x": 410,
+        "y": 53
+      },
+      {
+        "x": 380,
+        "y": 53
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "e",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 46,
+        "y": 107
+      },
+      {
+        "x": 57,
+        "y": 107
+      },
+      {
+        "x": 57,
+        "y": 116
+      },
+      {
+        "x": 46,
+        "y": 116
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "ats",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 104
+      },
+      {
+        "x": 101,
+        "y": 104
+      },
+      {
+        "x": 101,
+        "y": 117
+      },
+      {
+        "x": 63,
+        "y": 117
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "BRUNCH",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 46,
+        "y": 146
+      },
+      {
+        "x": 94,
+        "y": 146
+      },
+      {
+        "x": 94,
+        "y": 155
+      },
+      {
+        "x": 46,
+        "y": 155
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "POWER",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 101,
+        "y": 147
+      },
+      {
+        "x": 142,
+        "y": 147
+      },
+      {
+        "x": 142,
+        "y": 156
+      },
+      {
+        "x": 101,
+        "y": 156
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "BOWL",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 147
+      },
+      {
+        "x": 182,
+        "y": 147
+      },
+      {
+        "x": 182,
+        "y": 156
+      },
+      {
+        "x": 149,
+        "y": 156
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "soft",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 45,
+        "y": 162
+      },
+      {
+        "x": 64,
+        "y": 162
+      },
+      {
+        "x": 64,
+        "y": 171
+      },
+      {
+        "x": 45,
+        "y": 171
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "poached",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 70,
+        "y": 162
+      },
+      {
+        "x": 114,
+        "y": 163
+      },
+      {
+        "x": 114,
+        "y": 174
+      },
+      {
+        "x": 70,
+        "y": 173
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "free-run",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 119,
+        "y": 163
+      },
+      {
+        "x": 162,
+        "y": 164
+      },
+      {
+        "x": 162,
+        "y": 172
+      },
+      {
+        "x": 119,
+        "y": 171
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "eggs,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 168,
+        "y": 166
+      },
+      {
+        "x": 194,
+        "y": 166
+      },
+      {
+        "x": 194,
+        "y": 174
+      },
+      {
+        "x": 168,
+        "y": 174
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "word": "quinoa,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 200,
+        "y": 165
+      },
+      {
+        "x": 237,
+        "y": 165
+      },
+      {
+        "x": 237,
+        "y": 174
+      },
+      {
+        "x": 200,
+        "y": 174
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 243,
+        "y": 166
+      },
+      {
+        "x": 280,
+        "y": 166
+      },
+      {
+        "x": 280,
+        "y": 173
+      },
+      {
+        "x": 243,
+        "y": 173
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "word": "yams,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 285,
+        "y": 167
+      },
+      {
+        "x": 314,
+        "y": 167
+      },
+      {
+        "x": 314,
+        "y": 175
+      },
+      {
+        "x": 285,
+        "y": 175
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "word": "avocado,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 320,
+        "y": 166
+      },
+      {
+        "x": 365,
+        "y": 167
+      },
+      {
+        "x": 365,
+        "y": 176
+      },
+      {
+        "x": 320,
+        "y": 175
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "word": "corn,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 45,
+        "y": 177
+      },
+      {
+        "x": 70,
+        "y": 177
+      },
+      {
+        "x": 70,
+        "y": 184
+      },
+      {
+        "x": 45,
+        "y": 184
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "word": "bell",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 76,
+        "y": 175
+      },
+      {
+        "x": 93,
+        "y": 175
+      },
+      {
+        "x": 93,
+        "y": 185
+      },
+      {
+        "x": 76,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "word": "peppers,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 98,
+        "y": 177
+      },
+      {
+        "x": 142,
+        "y": 178
+      },
+      {
+        "x": 142,
+        "y": 187
+      },
+      {
+        "x": 98,
+        "y": 186
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "word": "kale,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 148,
+        "y": 176
+      },
+      {
+        "x": 171,
+        "y": 176
+      },
+      {
+        "x": 171,
+        "y": 186
+      },
+      {
+        "x": 148,
+        "y": 186
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "word": "fire-roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 177,
+        "y": 176
+      },
+      {
+        "x": 238,
+        "y": 177
+      },
+      {
+        "x": 238,
+        "y": 186
+      },
+      {
+        "x": 177,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "word": "salsa,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 243,
+        "y": 178
+      },
+      {
+        "x": 270,
+        "y": 178
+      },
+      {
+        "x": 270,
+        "y": 187
+      },
+      {
+        "x": 243,
+        "y": 187
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 276,
+        "y": 179
+      },
+      {
+        "x": 300,
+        "y": 179
+      },
+      {
+        "x": 300,
+        "y": 188
+      },
+      {
+        "x": 276,
+        "y": 188
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "word": "gem",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 305,
+        "y": 180
+      },
+      {
+        "x": 326,
+        "y": 180
+      },
+      {
+        "x": 326,
+        "y": 189
+      },
+      {
+        "x": 305,
+        "y": 189
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "word": "tomatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 332,
+        "y": 179
+      },
+      {
+        "x": 382,
+        "y": 180
+      },
+      {
+        "x": 382,
+        "y": 189
+      },
+      {
+        "x": 332,
+        "y": 188
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "word": "pickled",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 45,
+        "y": 189
+      },
+      {
+        "x": 81,
+        "y": 189
+      },
+      {
+        "x": 81,
+        "y": 198
+      },
+      {
+        "x": 45,
+        "y": 198
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "word": "red",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 86,
+        "y": 189
+      },
+      {
+        "x": 102,
+        "y": 189
+      },
+      {
+        "x": 102,
+        "y": 197
+      },
+      {
+        "x": 86,
+        "y": 197
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "word": "onion,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 107,
+        "y": 190
+      },
+      {
+        "x": 138,
+        "y": 190
+      },
+      {
+        "x": 138,
+        "y": 198
+      },
+      {
+        "x": 107,
+        "y": 198
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "word": "chipotle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 144,
+        "y": 190
+      },
+      {
+        "x": 185,
+        "y": 190
+      },
+      {
+        "x": 185,
+        "y": 199
+      },
+      {
+        "x": 144,
+        "y": 199
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "word": "aioli,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 190,
+        "y": 190
+      },
+      {
+        "x": 213,
+        "y": 190
+      },
+      {
+        "x": 213,
+        "y": 199
+      },
+      {
+        "x": 190,
+        "y": 199
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "word": "cilantro.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 219,
+        "y": 190
+      },
+      {
+        "x": 256,
+        "y": 190
+      },
+      {
+        "x": 256,
+        "y": 199
+      },
+      {
+        "x": 219,
+        "y": 199
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "word": "14%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 268,
+        "y": 192
+      },
+      {
+        "x": 286,
+        "y": 192
+      },
+      {
+        "x": 286,
+        "y": 199
+      },
+      {
+        "x": 268,
+        "y": 199
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 45,
+        "y": 208
+      },
+      {
+        "x": 65,
+        "y": 208
+      },
+      {
+        "x": 65,
+        "y": 216
+      },
+      {
+        "x": 45,
+        "y": 216
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "word": "bacon",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 69,
+        "y": 208
+      },
+      {
+        "x": 100,
+        "y": 208
+      },
+      {
+        "x": 100,
+        "y": 216
+      },
+      {
+        "x": 69,
+        "y": 216
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "word": "+3%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 107,
+        "y": 209
+      },
+      {
+        "x": 128,
+        "y": 209
+      },
+      {
+        "x": 128,
+        "y": 216
+      },
+      {
+        "x": 107,
+        "y": 216
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 140,
+        "y": 209
+      },
+      {
+        "x": 160,
+        "y": 209
+      },
+      {
+        "x": 160,
+        "y": 216
+      },
+      {
+        "x": 140,
+        "y": 216
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 164,
+        "y": 209
+      },
+      {
+        "x": 189,
+        "y": 209
+      },
+      {
+        "x": 189,
+        "y": 218
+      },
+      {
+        "x": 164,
+        "y": 218
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 194,
+        "y": 210
+      },
+      {
+        "x": 215,
+        "y": 210
+      },
+      {
+        "x": 215,
+        "y": 217
+      },
+      {
+        "x": 194,
+        "y": 217
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 222,
+        "y": 210
+      },
+      {
+        "x": 233,
+        "y": 210
+      },
+      {
+        "x": 233,
+        "y": 217
+      },
+      {
+        "x": 222,
+        "y": 217
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "word": "TOFU",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 44,
+        "y": 238
+      },
+      {
+        "x": 73,
+        "y": 238
+      },
+      {
+        "x": 73,
+        "y": 246
+      },
+      {
+        "x": 44,
+        "y": 246
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "word": "BRUNCH",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 82,
+        "y": 235
+      },
+      {
+        "x": 134,
+        "y": 236
+      },
+      {
+        "x": 134,
+        "y": 248
+      },
+      {
+        "x": 82,
+        "y": 247
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "word": "BOWL",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 136,
+        "y": 239
+      },
+      {
+        "x": 169,
+        "y": 239
+      },
+      {
+        "x": 169,
+        "y": 248
+      },
+      {
+        "x": 136,
+        "y": 248
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "word": "(vg)",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 175,
+        "y": 239
+      },
+      {
+        "x": 194,
+        "y": 239
+      },
+      {
+        "x": 194,
+        "y": 248
+      },
+      {
+        "x": 175,
+        "y": 248
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "word": "100%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 44,
+        "y": 254
+      },
+      {
+        "x": 72,
+        "y": 254
+      },
+      {
+        "x": 72,
+        "y": 262
+      },
+      {
+        "x": 44,
+        "y": 262
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "word": "plant-based.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 78,
+        "y": 254
+      },
+      {
+        "x": 143,
+        "y": 255
+      },
+      {
+        "x": 143,
+        "y": 266
+      },
+      {
+        "x": 78,
+        "y": 265
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "word": "grilled",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 256
+      },
+      {
+        "x": 180,
+        "y": 256
+      },
+      {
+        "x": 180,
+        "y": 265
+      },
+      {
+        "x": 149,
+        "y": 265
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "word": "tofu,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 185,
+        "y": 256
+      },
+      {
+        "x": 208,
+        "y": 256
+      },
+      {
+        "x": 208,
+        "y": 265
+      },
+      {
+        "x": 185,
+        "y": 265
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "word": "quinoa,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 214,
+        "y": 259
+      },
+      {
+        "x": 251,
+        "y": 259
+      },
+      {
+        "x": 251,
+        "y": 266
+      },
+      {
+        "x": 214,
+        "y": 266
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 257,
+        "y": 257
+      },
+      {
+        "x": 294,
+        "y": 257
+      },
+      {
+        "x": 294,
+        "y": 264
+      },
+      {
+        "x": 257,
+        "y": 264
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "word": "yams,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 300,
+        "y": 258
+      },
+      {
+        "x": 328,
+        "y": 258
+      },
+      {
+        "x": 328,
+        "y": 266
+      },
+      {
+        "x": 300,
+        "y": 266
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "word": "avocado,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 334,
+        "y": 258
+      },
+      {
+        "x": 379,
+        "y": 258
+      },
+      {
+        "x": 379,
+        "y": 266
+      },
+      {
+        "x": 334,
+        "y": 266
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "word": "corn,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 385,
+        "y": 259
+      },
+      {
+        "x": 409,
+        "y": 259
+      },
+      {
+        "x": 409,
+        "y": 266
+      },
+      {
+        "x": 385,
+        "y": 266
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "word": "bell",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 268
+      },
+      {
+        "x": 61,
+        "y": 268
+      },
+      {
+        "x": 61,
+        "y": 276
+      },
+      {
+        "x": 43,
+        "y": 276
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "word": "peppers,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 270
+      },
+      {
+        "x": 111,
+        "y": 270
+      },
+      {
+        "x": 111,
+        "y": 278
+      },
+      {
+        "x": 67,
+        "y": 278
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "word": "kale,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 117,
+        "y": 269
+      },
+      {
+        "x": 140,
+        "y": 269
+      },
+      {
+        "x": 140,
+        "y": 278
+      },
+      {
+        "x": 117,
+        "y": 278
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "word": "fire-roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 146,
+        "y": 269
+      },
+      {
+        "x": 207,
+        "y": 269
+      },
+      {
+        "x": 207,
+        "y": 277
+      },
+      {
+        "x": 146,
+        "y": 277
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "word": "salsa,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 213,
+        "y": 270
+      },
+      {
+        "x": 240,
+        "y": 270
+      },
+      {
+        "x": 240,
+        "y": 278
+      },
+      {
+        "x": 213,
+        "y": 278
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 246,
+        "y": 270
+      },
+      {
+        "x": 269,
+        "y": 270
+      },
+      {
+        "x": 269,
+        "y": 280
+      },
+      {
+        "x": 246,
+        "y": 280
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "word": "gem",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 275,
+        "y": 272
+      },
+      {
+        "x": 296,
+        "y": 272
+      },
+      {
+        "x": 296,
+        "y": 280
+      },
+      {
+        "x": 275,
+        "y": 280
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "word": "tomatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 302,
+        "y": 271
+      },
+      {
+        "x": 352,
+        "y": 271
+      },
+      {
+        "x": 352,
+        "y": 278
+      },
+      {
+        "x": 302,
+        "y": 278
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "word": "pickled",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 281
+      },
+      {
+        "x": 80,
+        "y": 281
+      },
+      {
+        "x": 80,
+        "y": 291
+      },
+      {
+        "x": 43,
+        "y": 291
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "word": "red",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 85,
+        "y": 281
+      },
+      {
+        "x": 101,
+        "y": 281
+      },
+      {
+        "x": 101,
+        "y": 289
+      },
+      {
+        "x": 85,
+        "y": 289
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "word": "onion,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 106,
+        "y": 282
+      },
+      {
+        "x": 138,
+        "y": 282
+      },
+      {
+        "x": 138,
+        "y": 291
+      },
+      {
+        "x": 106,
+        "y": 291
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "word": "chipotle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 144,
+        "y": 283
+      },
+      {
+        "x": 185,
+        "y": 283
+      },
+      {
+        "x": 185,
+        "y": 292
+      },
+      {
+        "x": 144,
+        "y": 292
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "word": "vegan",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 190,
+        "y": 285
+      },
+      {
+        "x": 220,
+        "y": 285
+      },
+      {
+        "x": 220,
+        "y": 292
+      },
+      {
+        "x": 190,
+        "y": 292
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "word": "aioli,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 225,
+        "y": 280
+      },
+      {
+        "x": 251,
+        "y": 280
+      },
+      {
+        "x": 251,
+        "y": 292
+      },
+      {
+        "x": 225,
+        "y": 292
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "word": "cilantro.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 255,
+        "y": 280
+      },
+      {
+        "x": 294,
+        "y": 280
+      },
+      {
+        "x": 294,
+        "y": 291
+      },
+      {
+        "x": 255,
+        "y": 291
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "word": "14%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 303,
+        "y": 284
+      },
+      {
+        "x": 321,
+        "y": 284
+      },
+      {
+        "x": 321,
+        "y": 291
+      },
+      {
+        "x": 303,
+        "y": 291
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 300
+      },
+      {
+        "x": 64,
+        "y": 300
+      },
+      {
+        "x": 64,
+        "y": 308
+      },
+      {
+        "x": 43,
+        "y": 308
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 68,
+        "y": 300
+      },
+      {
+        "x": 94,
+        "y": 300
+      },
+      {
+        "x": 94,
+        "y": 308
+      },
+      {
+        "x": 68,
+        "y": 308
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 99,
+        "y": 301
+      },
+      {
+        "x": 121,
+        "y": 301
+      },
+      {
+        "x": 121,
+        "y": 309
+      },
+      {
+        "x": 99,
+        "y": 309
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 127,
+        "y": 302
+      },
+      {
+        "x": 140,
+        "y": 302
+      },
+      {
+        "x": 140,
+        "y": 309
+      },
+      {
+        "x": 127,
+        "y": 309
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "word": "HONEY",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 331
+      },
+      {
+        "x": 86,
+        "y": 331
+      },
+      {
+        "x": 86,
+        "y": 339
+      },
+      {
+        "x": 43,
+        "y": 339
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "word": "HAM",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 92,
+        "y": 331
+      },
+      {
+        "x": 119,
+        "y": 331
+      },
+      {
+        "x": 119,
+        "y": 340
+      },
+      {
+        "x": 92,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "word": "BENNY",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 126,
+        "y": 332
+      },
+      {
+        "x": 166,
+        "y": 332
+      },
+      {
+        "x": 166,
+        "y": 340
+      },
+      {
+        "x": 126,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "word": "soft",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 42,
+        "y": 347
+      },
+      {
+        "x": 62,
+        "y": 347
+      },
+      {
+        "x": 62,
+        "y": 356
+      },
+      {
+        "x": 42,
+        "y": 356
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "word": "poached",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 68,
+        "y": 348
+      },
+      {
+        "x": 113,
+        "y": 348
+      },
+      {
+        "x": 113,
+        "y": 358
+      },
+      {
+        "x": 68,
+        "y": 358
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "word": "free-run",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 119,
+        "y": 348
+      },
+      {
+        "x": 162,
+        "y": 348
+      },
+      {
+        "x": 162,
+        "y": 356
+      },
+      {
+        "x": 119,
+        "y": 356
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "word": "eggs,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 168,
+        "y": 350
+      },
+      {
+        "x": 193,
+        "y": 350
+      },
+      {
+        "x": 193,
+        "y": 358
+      },
+      {
+        "x": 168,
+        "y": 358
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "word": "croissant,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 199,
+        "y": 349
+      },
+      {
+        "x": 247,
+        "y": 349
+      },
+      {
+        "x": 247,
+        "y": 357
+      },
+      {
+        "x": 199,
+        "y": 357
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "word": "honey",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 254,
+        "y": 349
+      },
+      {
+        "x": 284,
+        "y": 349
+      },
+      {
+        "x": 284,
+        "y": 359
+      },
+      {
+        "x": 254,
+        "y": 359
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "word": "ham,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 290,
+        "y": 349
+      },
+      {
+        "x": 314,
+        "y": 349
+      },
+      {
+        "x": 314,
+        "y": 357
+      },
+      {
+        "x": 290,
+        "y": 357
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "word": "hollandaise,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 320,
+        "y": 349
+      },
+      {
+        "x": 380,
+        "y": 349
+      },
+      {
+        "x": 380,
+        "y": 357
+      },
+      {
+        "x": 320,
+        "y": 357
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "word": "smashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 42,
+        "y": 358
+      },
+      {
+        "x": 89,
+        "y": 358
+      },
+      {
+        "x": 89,
+        "y": 369
+      },
+      {
+        "x": 42,
+        "y": 369
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "word": "potatoes.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 95,
+        "y": 362
+      },
+      {
+        "x": 144,
+        "y": 362
+      },
+      {
+        "x": 144,
+        "y": 371
+      },
+      {
+        "x": 95,
+        "y": 371
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "word": "15%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 151,
+        "y": 362
+      },
+      {
+        "x": 169,
+        "y": 362
+      },
+      {
+        "x": 169,
+        "y": 369
+      },
+      {
+        "x": 151,
+        "y": 369
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 381
+      },
+      {
+        "x": 63,
+        "y": 381
+      },
+      {
+        "x": 63,
+        "y": 388
+      },
+      {
+        "x": 43,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "word": "avocado",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 381
+      },
+      {
+        "x": 112,
+        "y": 381
+      },
+      {
+        "x": 112,
+        "y": 388
+      },
+      {
+        "x": 67,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 119,
+        "y": 381
+      },
+      {
+        "x": 131,
+        "y": 381
+      },
+      {
+        "x": 131,
+        "y": 388
+      },
+      {
+        "x": 119,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 143,
+        "y": 381
+      },
+      {
+        "x": 163,
+        "y": 381
+      },
+      {
+        "x": 163,
+        "y": 388
+      },
+      {
+        "x": 143,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 167,
+        "y": 380
+      },
+      {
+        "x": 192,
+        "y": 380
+      },
+      {
+        "x": 192,
+        "y": 388
+      },
+      {
+        "x": 167,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 198,
+        "y": 381
+      },
+      {
+        "x": 218,
+        "y": 381
+      },
+      {
+        "x": 218,
+        "y": 388
+      },
+      {
+        "x": 198,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 225,
+        "y": 381
+      },
+      {
+        "x": 237,
+        "y": 381
+      },
+      {
+        "x": 237,
+        "y": 388
+      },
+      {
+        "x": 225,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "word": "AVOCADO",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 410
+      },
+      {
+        "x": 105,
+        "y": 410
+      },
+      {
+        "x": 105,
+        "y": 419
+      },
+      {
+        "x": 41,
+        "y": 419
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "word": "BENNY",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 112,
+        "y": 409
+      },
+      {
+        "x": 152,
+        "y": 409
+      },
+      {
+        "x": 152,
+        "y": 419
+      },
+      {
+        "x": 112,
+        "y": 419
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "word": "soft",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 427
+      },
+      {
+        "x": 61,
+        "y": 427
+      },
+      {
+        "x": 61,
+        "y": 435
+      },
+      {
+        "x": 41,
+        "y": 435
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "word": "poached",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 427
+      },
+      {
+        "x": 112,
+        "y": 427
+      },
+      {
+        "x": 112,
+        "y": 437
+      },
+      {
+        "x": 67,
+        "y": 437
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "word": "free-run",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 118,
+        "y": 426
+      },
+      {
+        "x": 161,
+        "y": 426
+      },
+      {
+        "x": 161,
+        "y": 434
+      },
+      {
+        "x": 118,
+        "y": 434
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "word": "eggs,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 167,
+        "y": 428
+      },
+      {
+        "x": 193,
+        "y": 428
+      },
+      {
+        "x": 193,
+        "y": 436
+      },
+      {
+        "x": 167,
+        "y": 436
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "word": "toasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 199,
+        "y": 426
+      },
+      {
+        "x": 237,
+        "y": 426
+      },
+      {
+        "x": 237,
+        "y": 434
+      },
+      {
+        "x": 199,
+        "y": 434
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "word": "multigrain",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 243,
+        "y": 426
+      },
+      {
+        "x": 294,
+        "y": 426
+      },
+      {
+        "x": 294,
+        "y": 436
+      },
+      {
+        "x": 243,
+        "y": 436
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "word": "bread,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 300,
+        "y": 426
+      },
+      {
+        "x": 331,
+        "y": 426
+      },
+      {
+        "x": 331,
+        "y": 435
+      },
+      {
+        "x": 300,
+        "y": 435
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "word": "avocado,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 337,
+        "y": 427
+      },
+      {
+        "x": 382,
+        "y": 427
+      },
+      {
+        "x": 382,
+        "y": 435
+      },
+      {
+        "x": 337,
+        "y": 435
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 441
+      },
+      {
+        "x": 66,
+        "y": 441
+      },
+      {
+        "x": 66,
+        "y": 451
+      },
+      {
+        "x": 41,
+        "y": 451
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "word": "gem",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 72,
+        "y": 443
+      },
+      {
+        "x": 94,
+        "y": 443
+      },
+      {
+        "x": 94,
+        "y": 451
+      },
+      {
+        "x": 72,
+        "y": 451
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "word": "tomatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 100,
+        "y": 440
+      },
+      {
+        "x": 152,
+        "y": 440
+      },
+      {
+        "x": 152,
+        "y": 448
+      },
+      {
+        "x": 100,
+        "y": 448
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "word": "feta,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 159,
+        "y": 439
+      },
+      {
+        "x": 180,
+        "y": 439
+      },
+      {
+        "x": 180,
+        "y": 448
+      },
+      {
+        "x": 159,
+        "y": 448
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "word": "sesame",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 187,
+        "y": 442
+      },
+      {
+        "x": 225,
+        "y": 442
+      },
+      {
+        "x": 225,
+        "y": 447
+      },
+      {
+        "x": 187,
+        "y": 447
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 231,
+        "y": 440
+      },
+      {
+        "x": 249,
+        "y": 440
+      },
+      {
+        "x": 249,
+        "y": 447
+      },
+      {
+        "x": 231,
+        "y": 447
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "word": "pumpkin",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 255,
+        "y": 441
+      },
+      {
+        "x": 298,
+        "y": 441
+      },
+      {
+        "x": 298,
+        "y": 449
+      },
+      {
+        "x": 255,
+        "y": 449
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "word": "seeds,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 305,
+        "y": 440
+      },
+      {
+        "x": 336,
+        "y": 440
+      },
+      {
+        "x": 336,
+        "y": 448
+      },
+      {
+        "x": 305,
+        "y": 448
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "word": "hollandaise,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 454
+      },
+      {
+        "x": 104,
+        "y": 454
+      },
+      {
+        "x": 104,
+        "y": 463
+      },
+      {
+        "x": 41,
+        "y": 463
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "word": "smashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 110,
+        "y": 454
+      },
+      {
+        "x": 157,
+        "y": 454
+      },
+      {
+        "x": 157,
+        "y": 462
+      },
+      {
+        "x": 110,
+        "y": 462
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "word": "potatoes.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 163,
+        "y": 453
+      },
+      {
+        "x": 210,
+        "y": 453
+      },
+      {
+        "x": 210,
+        "y": 464
+      },
+      {
+        "x": 163,
+        "y": 464
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "word": "15%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 220,
+        "y": 453
+      },
+      {
+        "x": 238,
+        "y": 453
+      },
+      {
+        "x": 238,
+        "y": 461
+      },
+      {
+        "x": 220,
+        "y": 461
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 39,
+        "y": 474
+      },
+      {
+        "x": 61,
+        "y": 474
+      },
+      {
+        "x": 61,
+        "y": 483
+      },
+      {
+        "x": 39,
+        "y": 483
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "word": "bacon",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 473
+      },
+      {
+        "x": 100,
+        "y": 473
+      },
+      {
+        "x": 100,
+        "y": 483
+      },
+      {
+        "x": 63,
+        "y": 483
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "word": "+3%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 103,
+        "y": 473
+      },
+      {
+        "x": 127,
+        "y": 473
+      },
+      {
+        "x": 127,
+        "y": 482
+      },
+      {
+        "x": 103,
+        "y": 482
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 138,
+        "y": 473
+      },
+      {
+        "x": 158,
+        "y": 473
+      },
+      {
+        "x": 158,
+        "y": 482
+      },
+      {
+        "x": 138,
+        "y": 482
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 163,
+        "y": 472
+      },
+      {
+        "x": 188,
+        "y": 472
+      },
+      {
+        "x": 188,
+        "y": 481
+      },
+      {
+        "x": 163,
+        "y": 481
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 194,
+        "y": 472
+      },
+      {
+        "x": 215,
+        "y": 472
+      },
+      {
+        "x": 215,
+        "y": 480
+      },
+      {
+        "x": 194,
+        "y": 480
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 221,
+        "y": 473
+      },
+      {
+        "x": 233,
+        "y": 473
+      },
+      {
+        "x": 233,
+        "y": 481
+      },
+      {
+        "x": 221,
+        "y": 481
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "word": "FRIED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 504
+      },
+      {
+        "x": 73,
+        "y": 504
+      },
+      {
+        "x": 73,
+        "y": 512
+      },
+      {
+        "x": 41,
+        "y": 512
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "word": "EGG",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 80,
+        "y": 503
+      },
+      {
+        "x": 105,
+        "y": 503
+      },
+      {
+        "x": 105,
+        "y": 512
+      },
+      {
+        "x": 80,
+        "y": 512
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "word": "SANDWICH",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 111,
+        "y": 503
+      },
+      {
+        "x": 179,
+        "y": 502
+      },
+      {
+        "x": 179,
+        "y": 511
+      },
+      {
+        "x": 111,
+        "y": 512
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "word": "smoked",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 517
+      },
+      {
+        "x": 82,
+        "y": 517
+      },
+      {
+        "x": 82,
+        "y": 530
+      },
+      {
+        "x": 43,
+        "y": 530
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "word": "bacon,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 86,
+        "y": 517
+      },
+      {
+        "x": 122,
+        "y": 517
+      },
+      {
+        "x": 122,
+        "y": 530
+      },
+      {
+        "x": 86,
+        "y": 530
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "word": "avocado,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 126,
+        "y": 517
+      },
+      {
+        "x": 178,
+        "y": 517
+      },
+      {
+        "x": 178,
+        "y": 530
+      },
+      {
+        "x": 126,
+        "y": 530
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "word": "cheddar,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 181,
+        "y": 519
+      },
+      {
+        "x": 224,
+        "y": 519
+      },
+      {
+        "x": 224,
+        "y": 528
+      },
+      {
+        "x": 181,
+        "y": 528
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "word": "lettuce,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 231,
+        "y": 519
+      },
+      {
+        "x": 269,
+        "y": 519
+      },
+      {
+        "x": 269,
+        "y": 527
+      },
+      {
+        "x": 231,
+        "y": 527
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "word": "tomato,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 275,
+        "y": 519
+      },
+      {
+        "x": 314,
+        "y": 519
+      },
+      {
+        "x": 314,
+        "y": 527
+      },
+      {
+        "x": 275,
+        "y": 527
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "word": "mayo,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 320,
+        "y": 520
+      },
+      {
+        "x": 350,
+        "y": 520
+      },
+      {
+        "x": 350,
+        "y": 528
+      },
+      {
+        "x": 320,
+        "y": 528
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "word": "red",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 40,
+        "y": 533
+      },
+      {
+        "x": 58,
+        "y": 533
+      },
+      {
+        "x": 58,
+        "y": 544
+      },
+      {
+        "x": 40,
+        "y": 544
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "word": "relish,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 62,
+        "y": 533
+      },
+      {
+        "x": 94,
+        "y": 533
+      },
+      {
+        "x": 94,
+        "y": 544
+      },
+      {
+        "x": 62,
+        "y": 544
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "word": "toasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 98,
+        "y": 532
+      },
+      {
+        "x": 138,
+        "y": 532
+      },
+      {
+        "x": 138,
+        "y": 544
+      },
+      {
+        "x": 98,
+        "y": 544
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "word": "bun,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 142,
+        "y": 532
+      },
+      {
+        "x": 168,
+        "y": 532
+      },
+      {
+        "x": 168,
+        "y": 543
+      },
+      {
+        "x": 142,
+        "y": 543
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "word": "smashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 170,
+        "y": 532
+      },
+      {
+        "x": 218,
+        "y": 532
+      },
+      {
+        "x": 218,
+        "y": 543
+      },
+      {
+        "x": 170,
+        "y": 543
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "word": "potatoes.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 222,
+        "y": 531
+      },
+      {
+        "x": 274,
+        "y": 531
+      },
+      {
+        "x": 274,
+        "y": 543
+      },
+      {
+        "x": 222,
+        "y": 543
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "word": "14%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 280,
+        "y": 531
+      },
+      {
+        "x": 298,
+        "y": 531
+      },
+      {
+        "x": 298,
+        "y": 542
+      },
+      {
+        "x": 280,
+        "y": 542
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 41,
+        "y": 554
+      },
+      {
+        "x": 61,
+        "y": 554
+      },
+      {
+        "x": 61,
+        "y": 562
+      },
+      {
+        "x": 41,
+        "y": 562
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 65,
+        "y": 553
+      },
+      {
+        "x": 91,
+        "y": 553
+      },
+      {
+        "x": 91,
+        "y": 562
+      },
+      {
+        "x": 65,
+        "y": 562
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 97,
+        "y": 553
+      },
+      {
+        "x": 118,
+        "y": 553
+      },
+      {
+        "x": 118,
+        "y": 562
+      },
+      {
+        "x": 97,
+        "y": 562
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 125,
+        "y": 553
+      },
+      {
+        "x": 137,
+        "y": 553
+      },
+      {
+        "x": 137,
+        "y": 561
+      },
+      {
+        "x": 125,
+        "y": 561
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "word": "WARM",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 40,
+        "y": 585
+      },
+      {
+        "x": 78,
+        "y": 585
+      },
+      {
+        "x": 78,
+        "y": 593
+      },
+      {
+        "x": 40,
+        "y": 593
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "word": "BELGIAN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 85,
+        "y": 584
+      },
+      {
+        "x": 137,
+        "y": 583
+      },
+      {
+        "x": 137,
+        "y": 592
+      },
+      {
+        "x": 85,
+        "y": 593
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "word": "WAFFLES",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 143,
+        "y": 583
+      },
+      {
+        "x": 195,
+        "y": 582
+      },
+      {
+        "x": 195,
+        "y": 591
+      },
+      {
+        "x": 143,
+        "y": 592
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "word": "+",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 204,
+        "y": 582
+      },
+      {
+        "x": 212,
+        "y": 582
+      },
+      {
+        "x": 212,
+        "y": 593
+      },
+      {
+        "x": 204,
+        "y": 593
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "word": "BACON",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 213,
+        "y": 583
+      },
+      {
+        "x": 255,
+        "y": 583
+      },
+      {
+        "x": 255,
+        "y": 591
+      },
+      {
+        "x": 213,
+        "y": 591
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "word": "field",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 40,
+        "y": 602
+      },
+      {
+        "x": 61,
+        "y": 602
+      },
+      {
+        "x": 61,
+        "y": 610
+      },
+      {
+        "x": 40,
+        "y": 610
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "word": "berry",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 601
+      },
+      {
+        "x": 93,
+        "y": 601
+      },
+      {
+        "x": 93,
+        "y": 612
+      },
+      {
+        "x": 67,
+        "y": 612
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "word": "compote,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 99,
+        "y": 602
+      },
+      {
+        "x": 147,
+        "y": 601
+      },
+      {
+        "x": 147,
+        "y": 611
+      },
+      {
+        "x": 99,
+        "y": 612
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 153,
+        "y": 600
+      },
+      {
+        "x": 177,
+        "y": 600
+      },
+      {
+        "x": 177,
+        "y": 609
+      },
+      {
+        "x": 153,
+        "y": 609
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "word": "blueberries,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 184,
+        "y": 601
+      },
+      {
+        "x": 240,
+        "y": 600
+      },
+      {
+        "x": 240,
+        "y": 607
+      },
+      {
+        "x": 184,
+        "y": 608
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "word": "whipped",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 40,
+        "y": 615
+      },
+      {
+        "x": 84,
+        "y": 614
+      },
+      {
+        "x": 84,
+        "y": 625
+      },
+      {
+        "x": 40,
+        "y": 626
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "word": "cream,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 90,
+        "y": 617
+      },
+      {
+        "x": 124,
+        "y": 616
+      },
+      {
+        "x": 124,
+        "y": 623
+      },
+      {
+        "x": 90,
+        "y": 624
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "word": "side",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 130,
+        "y": 615
+      },
+      {
+        "x": 150,
+        "y": 615
+      },
+      {
+        "x": 150,
+        "y": 622
+      },
+      {
+        "x": 130,
+        "y": 622
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "word": "of",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 155,
+        "y": 614
+      },
+      {
+        "x": 164,
+        "y": 614
+      },
+      {
+        "x": 164,
+        "y": 623
+      },
+      {
+        "x": 155,
+        "y": 623
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "word": "bacon.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 169,
+        "y": 614
+      },
+      {
+        "x": 199,
+        "y": 613
+      },
+      {
+        "x": 199,
+        "y": 622
+      },
+      {
+        "x": 169,
+        "y": 623
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "word": "13%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 210,
+        "y": 614
+      },
+      {
+        "x": 228,
+        "y": 614
+      },
+      {
+        "x": 228,
+        "y": 622
+      },
+      {
+        "x": 210,
+        "y": 622
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 40,
+        "y": 636
+      },
+      {
+        "x": 61,
+        "y": 636
+      },
+      {
+        "x": 61,
+        "y": 644
+      },
+      {
+        "x": 40,
+        "y": 644
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 65,
+        "y": 635
+      },
+      {
+        "x": 91,
+        "y": 635
+      },
+      {
+        "x": 91,
+        "y": 644
+      },
+      {
+        "x": 65,
+        "y": 644
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 96,
+        "y": 634
+      },
+      {
+        "x": 118,
+        "y": 634
+      },
+      {
+        "x": 118,
+        "y": 642
+      },
+      {
+        "x": 96,
+        "y": 642
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 124,
+        "y": 634
+      },
+      {
+        "x": 137,
+        "y": 634
+      },
+      {
+        "x": 137,
+        "y": 642
+      },
+      {
+        "x": 124,
+        "y": 642
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 150,
+        "y": 633
+      },
+      {
+        "x": 170,
+        "y": 633
+      },
+      {
+        "x": 170,
+        "y": 644
+      },
+      {
+        "x": 150,
+        "y": 644
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "word": "pure",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 174,
+        "y": 632
+      },
+      {
+        "x": 198,
+        "y": 632
+      },
+      {
+        "x": 198,
+        "y": 644
+      },
+      {
+        "x": 174,
+        "y": 644
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "word": "maple",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 201,
+        "y": 634
+      },
+      {
+        "x": 233,
+        "y": 634
+      },
+      {
+        "x": 233,
+        "y": 642
+      },
+      {
+        "x": 201,
+        "y": 642
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "word": "syrup",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 238,
+        "y": 635
+      },
+      {
+        "x": 267,
+        "y": 635
+      },
+      {
+        "x": 267,
+        "y": 643
+      },
+      {
+        "x": 238,
+        "y": 643
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "word": "+1%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 273,
+        "y": 633
+      },
+      {
+        "x": 293,
+        "y": 633
+      },
+      {
+        "x": 293,
+        "y": 640
+      },
+      {
+        "x": 273,
+        "y": 640
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "word": "AVOCADO",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 38,
+        "y": 667
+      },
+      {
+        "x": 103,
+        "y": 665
+      },
+      {
+        "x": 103,
+        "y": 675
+      },
+      {
+        "x": 38,
+        "y": 677
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "word": "TOAST",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 109,
+        "y": 666
+      },
+      {
+        "x": 147,
+        "y": 665
+      },
+      {
+        "x": 147,
+        "y": 674
+      },
+      {
+        "x": 109,
+        "y": 675
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "word": "toasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 35,
+        "y": 682
+      },
+      {
+        "x": 80,
+        "y": 681
+      },
+      {
+        "x": 80,
+        "y": 693
+      },
+      {
+        "x": 35,
+        "y": 694
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "word": "multigrain",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 85,
+        "y": 681
+      },
+      {
+        "x": 139,
+        "y": 680
+      },
+      {
+        "x": 139,
+        "y": 693
+      },
+      {
+        "x": 85,
+        "y": 694
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "word": "bread,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 143,
+        "y": 680
+      },
+      {
+        "x": 180,
+        "y": 679
+      },
+      {
+        "x": 180,
+        "y": 692
+      },
+      {
+        "x": 143,
+        "y": 693
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "word": "avocado,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 182,
+        "y": 681
+      },
+      {
+        "x": 228,
+        "y": 680
+      },
+      {
+        "x": 228,
+        "y": 690
+      },
+      {
+        "x": 182,
+        "y": 691
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "word": "pickled",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 234,
+        "y": 680
+      },
+      {
+        "x": 270,
+        "y": 679
+      },
+      {
+        "x": 270,
+        "y": 690
+      },
+      {
+        "x": 234,
+        "y": 691
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "word": "onion,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 276,
+        "y": 681
+      },
+      {
+        "x": 307,
+        "y": 680
+      },
+      {
+        "x": 307,
+        "y": 688
+      },
+      {
+        "x": 276,
+        "y": 689
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 313,
+        "y": 680
+      },
+      {
+        "x": 337,
+        "y": 680
+      },
+      {
+        "x": 337,
+        "y": 689
+      },
+      {
+        "x": 313,
+        "y": 689
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "word": "gem",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 38,
+        "y": 701
+      },
+      {
+        "x": 61,
+        "y": 700
+      },
+      {
+        "x": 61,
+        "y": 708
+      },
+      {
+        "x": 38,
+        "y": 709
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "word": "tomatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 698
+      },
+      {
+        "x": 121,
+        "y": 697
+      },
+      {
+        "x": 121,
+        "y": 707
+      },
+      {
+        "x": 67,
+        "y": 708
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "word": "feta,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 126,
+        "y": 696
+      },
+      {
+        "x": 150,
+        "y": 695
+      },
+      {
+        "x": 150,
+        "y": 705
+      },
+      {
+        "x": 126,
+        "y": 706
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "word": "sesame",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 155,
+        "y": 697
+      },
+      {
+        "x": 195,
+        "y": 696
+      },
+      {
+        "x": 195,
+        "y": 704
+      },
+      {
+        "x": 155,
+        "y": 705
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 201,
+        "y": 695
+      },
+      {
+        "x": 219,
+        "y": 695
+      },
+      {
+        "x": 219,
+        "y": 703
+      },
+      {
+        "x": 201,
+        "y": 703
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "word": "pumpkin",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 225,
+        "y": 696
+      },
+      {
+        "x": 269,
+        "y": 695
+      },
+      {
+        "x": 269,
+        "y": 703
+      },
+      {
+        "x": 225,
+        "y": 704
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "word": "seeds.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 276,
+        "y": 694
+      },
+      {
+        "x": 307,
+        "y": 693
+      },
+      {
+        "x": 307,
+        "y": 701
+      },
+      {
+        "x": 276,
+        "y": 702
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "word": "14",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 317,
+        "y": 694
+      },
+      {
+        "x": 325,
+        "y": 694
+      },
+      {
+        "x": 325,
+        "y": 702
+      },
+      {
+        "x": 317,
+        "y": 702
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 39,
+        "y": 720
+      },
+      {
+        "x": 59,
+        "y": 719
+      },
+      {
+        "x": 59,
+        "y": 727
+      },
+      {
+        "x": 39,
+        "y": 728
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "word": "bacon",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 64,
+        "y": 719
+      },
+      {
+        "x": 96,
+        "y": 718
+      },
+      {
+        "x": 96,
+        "y": 727
+      },
+      {
+        "x": 64,
+        "y": 728
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "word": "+3%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 103,
+        "y": 717
+      },
+      {
+        "x": 125,
+        "y": 716
+      },
+      {
+        "x": 125,
+        "y": 724
+      },
+      {
+        "x": 103,
+        "y": 725
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "word": "add",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 137,
+        "y": 716
+      },
+      {
+        "x": 157,
+        "y": 715
+      },
+      {
+        "x": 157,
+        "y": 723
+      },
+      {
+        "x": 137,
+        "y": 724
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 162,
+        "y": 715
+      },
+      {
+        "x": 187,
+        "y": 714
+      },
+      {
+        "x": 187,
+        "y": 723
+      },
+      {
+        "x": 162,
+        "y": 724
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "word": "fruit",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 193,
+        "y": 714
+      },
+      {
+        "x": 213,
+        "y": 713
+      },
+      {
+        "x": 213,
+        "y": 723
+      },
+      {
+        "x": 193,
+        "y": 724
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "word": "+4",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 221,
+        "y": 715
+      },
+      {
+        "x": 232,
+        "y": 715
+      },
+      {
+        "x": 232,
+        "y": 722
+      },
+      {
+        "x": 221,
+        "y": 722
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "number": 0,
+    "word": "crostini.",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 172,
+        "word": "crostini.",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 306,
+            "y": 541
+          },
+          {
+            "x": 342,
+            "y": 540
+          },
+          {
+            "x": 342,
+            "y": 551
+          },
+          {
+            "x": 306,
+            "y": 552
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 541,
+        "x": 306
+      },
+      {
+        "y": 541,
+        "x": 342
+      },
+      {
+        "y": 551,
+        "x": 342
+      },
+      {
+        "y": 551,
+        "x": 306
+      }
+    ]
+  }
+]

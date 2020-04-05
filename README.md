@@ -1,7 +1,7 @@
 # file-upload-server
 a file upload server, save jpg and json
 
-### run
+### run development
 ```
 python manage.py runserver
 ```

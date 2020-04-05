@@ -1,0 +1,5114 @@
+[
+  {
+    "number": 0,
+    "word": "CHARGRILLED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 56,
+        "y": 15
+      },
+      {
+        "x": 131,
+        "y": 12
+      },
+      {
+        "x": 131,
+        "y": 22
+      },
+      {
+        "x": 56,
+        "y": 25
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "STEAK",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 135,
+        "y": 13
+      },
+      {
+        "x": 168,
+        "y": 12
+      },
+      {
+        "x": 168,
+        "y": 21
+      },
+      {
+        "x": 135,
+        "y": 22
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "Soz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 56,
+        "y": 30
+      },
+      {
+        "x": 74,
+        "y": 30
+      },
+      {
+        "x": 74,
+        "y": 38
+      },
+      {
+        "x": 56,
+        "y": 38
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "certified",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 76,
+        "y": 27
+      },
+      {
+        "x": 117,
+        "y": 27
+      },
+      {
+        "x": 117,
+        "y": 38
+      },
+      {
+        "x": 76,
+        "y": 38
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "angus",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 120,
+        "y": 29
+      },
+      {
+        "x": 150,
+        "y": 29
+      },
+      {
+        "x": 150,
+        "y": 37
+      },
+      {
+        "x": 120,
+        "y": 37
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "beef",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 153,
+        "y": 27
+      },
+      {
+        "x": 180,
+        "y": 27
+      },
+      {
+        "x": 180,
+        "y": 35
+      },
+      {
+        "x": 153,
+        "y": 35
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "sirloin,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 184,
+        "y": 26
+      },
+      {
+        "x": 215,
+        "y": 26
+      },
+      {
+        "x": 215,
+        "y": 35
+      },
+      {
+        "x": 184,
+        "y": 35
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 220,
+        "y": 26
+      },
+      {
+        "x": 261,
+        "y": 26
+      },
+      {
+        "x": 261,
+        "y": 33
+      },
+      {
+        "x": 220,
+        "y": 33
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "mashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 266,
+        "y": 26
+      },
+      {
+        "x": 303,
+        "y": 26
+      },
+      {
+        "x": 303,
+        "y": 34
+      },
+      {
+        "x": 266,
+        "y": 34
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "potatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 308,
+        "y": 26
+      },
+      {
+        "x": 352,
+        "y": 26
+      },
+      {
+        "x": 352,
+        "y": 34
+      },
+      {
+        "x": 308,
+        "y": 34
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 358,
+        "y": 27
+      },
+      {
+        "x": 393,
+        "y": 27
+      },
+      {
+        "x": 393,
+        "y": 34
+      },
+      {
+        "x": 358,
+        "y": 34
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "aspa",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 397,
+        "y": 28
+      },
+      {
+        "x": 419,
+        "y": 28
+      },
+      {
+        "x": 419,
+        "y": 34
+      },
+      {
+        "x": 397,
+        "y": 34
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "STEAK",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 57,
+        "y": 54
+      },
+      {
+        "x": 89,
+        "y": 52
+      },
+      {
+        "x": 89,
+        "y": 61
+      },
+      {
+        "x": 57,
+        "y": 63
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "FRITES",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 94,
+        "y": 53
+      },
+      {
+        "x": 127,
+        "y": 51
+      },
+      {
+        "x": 127,
+        "y": 59
+      },
+      {
+        "x": 94,
+        "y": 61
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "Boz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 57,
+        "y": 63
+      },
+      {
+        "x": 78,
+        "y": 63
+      },
+      {
+        "x": 78,
+        "y": 76
+      },
+      {
+        "x": 57,
+        "y": 76
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "certified",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 80,
+        "y": 62
+      },
+      {
+        "x": 118,
+        "y": 62
+      },
+      {
+        "x": 118,
+        "y": 76
+      },
+      {
+        "x": 80,
+        "y": 76
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "angus",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 121,
+        "y": 67
+      },
+      {
+        "x": 150,
+        "y": 67
+      },
+      {
+        "x": 150,
+        "y": 75
+      },
+      {
+        "x": 121,
+        "y": 75
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "beef\"",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 154,
+        "y": 64
+      },
+      {
+        "x": 181,
+        "y": 64
+      },
+      {
+        "x": 181,
+        "y": 73
+      },
+      {
+        "x": 154,
+        "y": 73
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "sirloin,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 184,
+        "y": 65
+      },
+      {
+        "x": 215,
+        "y": 65
+      },
+      {
+        "x": 215,
+        "y": 72
+      },
+      {
+        "x": 184,
+        "y": 72
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "kale",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 220,
+        "y": 64
+      },
+      {
+        "x": 239,
+        "y": 64
+      },
+      {
+        "x": 239,
+        "y": 71
+      },
+      {
+        "x": 220,
+        "y": 71
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "word": "salad,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 244,
+        "y": 64
+      },
+      {
+        "x": 270,
+        "y": 64
+      },
+      {
+        "x": 270,
+        "y": 72
+      },
+      {
+        "x": 244,
+        "y": 72
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "word": "horseradish",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 276,
+        "y": 63
+      },
+      {
+        "x": 331,
+        "y": 62
+      },
+      {
+        "x": 331,
+        "y": 71
+      },
+      {
+        "x": 276,
+        "y": 72
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "word": "cream,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 336,
+        "y": 65
+      },
+      {
+        "x": 367,
+        "y": 65
+      },
+      {
+        "x": 367,
+        "y": 71
+      },
+      {
+        "x": 336,
+        "y": 71
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "word": "sea",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 373,
+        "y": 66
+      },
+      {
+        "x": 388,
+        "y": 66
+      },
+      {
+        "x": 388,
+        "y": 71
+      },
+      {
+        "x": 373,
+        "y": 71
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "word": "salted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 393,
+        "y": 64
+      },
+      {
+        "x": 419,
+        "y": 64
+      },
+      {
+        "x": 419,
+        "y": 71
+      },
+      {
+        "x": 393,
+        "y": 71
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "word": "Upgrade",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 57,
+        "y": 89
+      },
+      {
+        "x": 105,
+        "y": 87
+      },
+      {
+        "x": 105,
+        "y": 99
+      },
+      {
+        "x": 57,
+        "y": 101
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "word": "any",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 109,
+        "y": 90
+      },
+      {
+        "x": 128,
+        "y": 89
+      },
+      {
+        "x": 128,
+        "y": 98
+      },
+      {
+        "x": 109,
+        "y": 99
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "word": "Soz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 132,
+        "y": 87
+      },
+      {
+        "x": 151,
+        "y": 86
+      },
+      {
+        "x": 151,
+        "y": 94
+      },
+      {
+        "x": 132,
+        "y": 95
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "word": "sirloin",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 155,
+        "y": 86
+      },
+      {
+        "x": 191,
+        "y": 85
+      },
+      {
+        "x": 191,
+        "y": 94
+      },
+      {
+        "x": 155,
+        "y": 95
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "word": "to:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 196,
+        "y": 88
+      },
+      {
+        "x": 209,
+        "y": 87
+      },
+      {
+        "x": 209,
+        "y": 93
+      },
+      {
+        "x": 196,
+        "y": 94
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "word": "12ez",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 58,
+        "y": 99
+      },
+      {
+        "x": 80,
+        "y": 99
+      },
+      {
+        "x": 80,
+        "y": 111
+      },
+      {
+        "x": 58,
+        "y": 111
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "word": "certified",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 82,
+        "y": 101
+      },
+      {
+        "x": 126,
+        "y": 101
+      },
+      {
+        "x": 126,
+        "y": 111
+      },
+      {
+        "x": 82,
+        "y": 111
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "word": "angus",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 129,
+        "y": 103
+      },
+      {
+        "x": 158,
+        "y": 103
+      },
+      {
+        "x": 158,
+        "y": 110
+      },
+      {
+        "x": 129,
+        "y": 110
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "word": "beef\"",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 161,
+        "y": 100
+      },
+      {
+        "x": 188,
+        "y": 100
+      },
+      {
+        "x": 188,
+        "y": 108
+      },
+      {
+        "x": 161,
+        "y": 108
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "word": "new",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 191,
+        "y": 102
+      },
+      {
+        "x": 210,
+        "y": 102
+      },
+      {
+        "x": 210,
+        "y": 107
+      },
+      {
+        "x": 191,
+        "y": 107
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "word": "york",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 214,
+        "y": 99
+      },
+      {
+        "x": 236,
+        "y": 99
+      },
+      {
+        "x": 236,
+        "y": 109
+      },
+      {
+        "x": 214,
+        "y": 109
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "word": "striploin",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 239,
+        "y": 100
+      },
+      {
+        "x": 283,
+        "y": 100
+      },
+      {
+        "x": 283,
+        "y": 109
+      },
+      {
+        "x": 239,
+        "y": 109
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "word": "\u012fsuperior",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 289,
+        "y": 102
+      },
+      {
+        "x": 323,
+        "y": 102
+      },
+      {
+        "x": 323,
+        "y": 109
+      },
+      {
+        "x": 289,
+        "y": 109
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "word": "marbling,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 328,
+        "y": 100
+      },
+      {
+        "x": 369,
+        "y": 100
+      },
+      {
+        "x": 369,
+        "y": 109
+      },
+      {
+        "x": 328,
+        "y": 109
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "word": "rich",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 373,
+        "y": 100
+      },
+      {
+        "x": 388,
+        "y": 100
+      },
+      {
+        "x": 388,
+        "y": 107
+      },
+      {
+        "x": 373,
+        "y": 107
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 393,
+        "y": 101
+      },
+      {
+        "x": 407,
+        "y": 101
+      },
+      {
+        "x": 407,
+        "y": 107
+      },
+      {
+        "x": 393,
+        "y": 107
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "word": "fla",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 412,
+        "y": 99
+      },
+      {
+        "x": 419,
+        "y": 99
+      },
+      {
+        "x": 419,
+        "y": 106
+      },
+      {
+        "x": 412,
+        "y": 106
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "word": "Tea",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 57,
+        "y": 113
+      },
+      {
+        "x": 75,
+        "y": 113
+      },
+      {
+        "x": 75,
+        "y": 125
+      },
+      {
+        "x": 57,
+        "y": 125
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "word": "AAA",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 80,
+        "y": 112
+      },
+      {
+        "x": 97,
+        "y": 112
+      },
+      {
+        "x": 97,
+        "y": 125
+      },
+      {
+        "x": 80,
+        "y": 125
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "word": "ilet",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 101,
+        "y": 112
+      },
+      {
+        "x": 121,
+        "y": 112
+      },
+      {
+        "x": 121,
+        "y": 124
+      },
+      {
+        "x": 101,
+        "y": 124
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "word": "(lean",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 124,
+        "y": 115
+      },
+      {
+        "x": 145,
+        "y": 115
+      },
+      {
+        "x": 145,
+        "y": 124
+      },
+      {
+        "x": 124,
+        "y": 124
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 148,
+        "y": 114
+      },
+      {
+        "x": 165,
+        "y": 114
+      },
+      {
+        "x": 165,
+        "y": 122
+      },
+      {
+        "x": 148,
+        "y": 122
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "word": "exceptionally",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 167,
+        "y": 113
+      },
+      {
+        "x": 225,
+        "y": 112
+      },
+      {
+        "x": 225,
+        "y": 123
+      },
+      {
+        "x": 167,
+        "y": 124
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "word": "tender).",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 229,
+        "y": 110
+      },
+      {
+        "x": 266,
+        "y": 110
+      },
+      {
+        "x": 266,
+        "y": 123
+      },
+      {
+        "x": 229,
+        "y": 123
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "word": "+11",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 269,
+        "y": 114
+      },
+      {
+        "x": 283,
+        "y": 114
+      },
+      {
+        "x": 283,
+        "y": 120
+      },
+      {
+        "x": 269,
+        "y": 120
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "word": "SIGNATURE",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 58,
+        "y": 141
+      },
+      {
+        "x": 130,
+        "y": 139
+      },
+      {
+        "x": 130,
+        "y": 148
+      },
+      {
+        "x": 58,
+        "y": 150
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "word": "STEAKS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 137,
+        "y": 139
+      },
+      {
+        "x": 182,
+        "y": 138
+      },
+      {
+        "x": 182,
+        "y": 147
+      },
+      {
+        "x": 137,
+        "y": 148
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "word": "PEI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 59,
+        "y": 163
+      },
+      {
+        "x": 73,
+        "y": 163
+      },
+      {
+        "x": 73,
+        "y": 172
+      },
+      {
+        "x": 59,
+        "y": 172
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "word": "RIBEYE",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 78,
+        "y": 163
+      },
+      {
+        "x": 112,
+        "y": 162
+      },
+      {
+        "x": 112,
+        "y": 170
+      },
+      {
+        "x": 78,
+        "y": 171
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "word": "STEAK",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 118,
+        "y": 162
+      },
+      {
+        "x": 150,
+        "y": 161
+      },
+      {
+        "x": 150,
+        "y": 169
+      },
+      {
+        "x": 118,
+        "y": 170
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "word": "12oz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 58,
+        "y": 177
+      },
+      {
+        "x": 80,
+        "y": 177
+      },
+      {
+        "x": 80,
+        "y": 186
+      },
+      {
+        "x": 58,
+        "y": 186
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "word": "AAA",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 83,
+        "y": 177
+      },
+      {
+        "x": 105,
+        "y": 177
+      },
+      {
+        "x": 105,
+        "y": 185
+      },
+      {
+        "x": 83,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "word": "ribeye,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 109,
+        "y": 175
+      },
+      {
+        "x": 141,
+        "y": 175
+      },
+      {
+        "x": 141,
+        "y": 185
+      },
+      {
+        "x": 109,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "word": "pasture-raised,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 145,
+        "y": 175
+      },
+      {
+        "x": 218,
+        "y": 174
+      },
+      {
+        "x": 218,
+        "y": 184
+      },
+      {
+        "x": 145,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "word": "grass-fed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 224,
+        "y": 174
+      },
+      {
+        "x": 269,
+        "y": 174
+      },
+      {
+        "x": 269,
+        "y": 184
+      },
+      {
+        "x": 224,
+        "y": 184
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 274,
+        "y": 175
+      },
+      {
+        "x": 290,
+        "y": 175
+      },
+      {
+        "x": 290,
+        "y": 181
+      },
+      {
+        "x": 274,
+        "y": 181
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "word": "potato",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 295,
+        "y": 174
+      },
+      {
+        "x": 326,
+        "y": 174
+      },
+      {
+        "x": 326,
+        "y": 183
+      },
+      {
+        "x": 295,
+        "y": 183
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "word": "finished,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 331,
+        "y": 174
+      },
+      {
+        "x": 370,
+        "y": 174
+      },
+      {
+        "x": 370,
+        "y": 181
+      },
+      {
+        "x": 331,
+        "y": 181
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 375,
+        "y": 175
+      },
+      {
+        "x": 415,
+        "y": 175
+      },
+      {
+        "x": 415,
+        "y": 181
+      },
+      {
+        "x": 375,
+        "y": 181
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 58,
+        "y": 190
+      },
+      {
+        "x": 94,
+        "y": 189
+      },
+      {
+        "x": 94,
+        "y": 198
+      },
+      {
+        "x": 58,
+        "y": 199
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "word": "asparagus,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 98,
+        "y": 191
+      },
+      {
+        "x": 150,
+        "y": 190
+      },
+      {
+        "x": 150,
+        "y": 199
+      },
+      {
+        "x": 98,
+        "y": 200
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "word": "lemon",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 154,
+        "y": 189
+      },
+      {
+        "x": 184,
+        "y": 188
+      },
+      {
+        "x": 184,
+        "y": 195
+      },
+      {
+        "x": 154,
+        "y": 196
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "word": "herb",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 189,
+        "y": 188
+      },
+      {
+        "x": 210,
+        "y": 188
+      },
+      {
+        "x": 210,
+        "y": 195
+      },
+      {
+        "x": 189,
+        "y": 195
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "word": "butter.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 216,
+        "y": 186
+      },
+      {
+        "x": 248,
+        "y": 185
+      },
+      {
+        "x": 248,
+        "y": 197
+      },
+      {
+        "x": 216,
+        "y": 198
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "word": "45",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 253,
+        "y": 189
+      },
+      {
+        "x": 263,
+        "y": 189
+      },
+      {
+        "x": 263,
+        "y": 195
+      },
+      {
+        "x": 253,
+        "y": 195
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "word": "MILLIONAIRE'S",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 59,
+        "y": 210
+      },
+      {
+        "x": 142,
+        "y": 209
+      },
+      {
+        "x": 142,
+        "y": 219
+      },
+      {
+        "x": 59,
+        "y": 220
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "word": "CUT",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 146,
+        "y": 210
+      },
+      {
+        "x": 166,
+        "y": 210
+      },
+      {
+        "x": 166,
+        "y": 219
+      },
+      {
+        "x": 146,
+        "y": 219
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "word": "7oz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 59,
+        "y": 225
+      },
+      {
+        "x": 76,
+        "y": 225
+      },
+      {
+        "x": 76,
+        "y": 234
+      },
+      {
+        "x": 59,
+        "y": 234
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "word": "AAA",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 78,
+        "y": 225
+      },
+      {
+        "x": 101,
+        "y": 225
+      },
+      {
+        "x": 101,
+        "y": 234
+      },
+      {
+        "x": 78,
+        "y": 234
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "word": "filet",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 104,
+        "y": 223
+      },
+      {
+        "x": 123,
+        "y": 223
+      },
+      {
+        "x": 123,
+        "y": 233
+      },
+      {
+        "x": 104,
+        "y": 233
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "word": "or",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 125,
+        "y": 223
+      },
+      {
+        "x": 139,
+        "y": 223
+      },
+      {
+        "x": 139,
+        "y": 234
+      },
+      {
+        "x": 125,
+        "y": 234
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "word": "12oz",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 140,
+        "y": 224
+      },
+      {
+        "x": 160,
+        "y": 224
+      },
+      {
+        "x": 160,
+        "y": 232
+      },
+      {
+        "x": 140,
+        "y": 232
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "word": "new",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 164,
+        "y": 226
+      },
+      {
+        "x": 185,
+        "y": 226
+      },
+      {
+        "x": 185,
+        "y": 232
+      },
+      {
+        "x": 164,
+        "y": 232
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "word": "york",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 188,
+        "y": 224
+      },
+      {
+        "x": 209,
+        "y": 224
+      },
+      {
+        "x": 209,
+        "y": 233
+      },
+      {
+        "x": 188,
+        "y": 233
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "word": "striploin,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 213,
+        "y": 223
+      },
+      {
+        "x": 253,
+        "y": 223
+      },
+      {
+        "x": 253,
+        "y": 233
+      },
+      {
+        "x": 213,
+        "y": 233
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "word": "white",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 258,
+        "y": 223
+      },
+      {
+        "x": 284,
+        "y": 223
+      },
+      {
+        "x": 284,
+        "y": 230
+      },
+      {
+        "x": 258,
+        "y": 230
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "word": "wine",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 288,
+        "y": 225
+      },
+      {
+        "x": 310,
+        "y": 225
+      },
+      {
+        "x": 310,
+        "y": 230
+      },
+      {
+        "x": 288,
+        "y": 230
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "word": "saut\u00e9ed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 315,
+        "y": 222
+      },
+      {
+        "x": 352,
+        "y": 222
+      },
+      {
+        "x": 352,
+        "y": 230
+      },
+      {
+        "x": 315,
+        "y": 230
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "word": "creole",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 357,
+        "y": 222
+      },
+      {
+        "x": 385,
+        "y": 222
+      },
+      {
+        "x": 385,
+        "y": 229
+      },
+      {
+        "x": 357,
+        "y": 229
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "word": "jumbo",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 389,
+        "y": 223
+      },
+      {
+        "x": 418,
+        "y": 223
+      },
+      {
+        "x": 418,
+        "y": 231
+      },
+      {
+        "x": 389,
+        "y": 231
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 59,
+        "y": 239
+      },
+      {
+        "x": 100,
+        "y": 239
+      },
+      {
+        "x": 100,
+        "y": 247
+      },
+      {
+        "x": 59,
+        "y": 247
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "word": "mashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 104,
+        "y": 238
+      },
+      {
+        "x": 142,
+        "y": 238
+      },
+      {
+        "x": 142,
+        "y": 246
+      },
+      {
+        "x": 104,
+        "y": 246
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "word": "potatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 146,
+        "y": 238
+      },
+      {
+        "x": 190,
+        "y": 238
+      },
+      {
+        "x": 190,
+        "y": 247
+      },
+      {
+        "x": 146,
+        "y": 247
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 196,
+        "y": 238
+      },
+      {
+        "x": 231,
+        "y": 238
+      },
+      {
+        "x": 231,
+        "y": 245
+      },
+      {
+        "x": 196,
+        "y": 245
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "word": "asparagus.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 235,
+        "y": 236
+      },
+      {
+        "x": 293,
+        "y": 236
+      },
+      {
+        "x": 293,
+        "y": 248
+      },
+      {
+        "x": 235,
+        "y": 248
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "word": "47%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 293,
+        "y": 237
+      },
+      {
+        "x": 310,
+        "y": 237
+      },
+      {
+        "x": 310,
+        "y": 243
+      },
+      {
+        "x": 293,
+        "y": 243
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "word": "MAINS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 60,
+        "y": 277
+      },
+      {
+        "x": 130,
+        "y": 276
+      },
+      {
+        "x": 130,
+        "y": 289
+      },
+      {
+        "x": 60,
+        "y": 290
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "word": "SEAFOOD",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 61,
+        "y": 310
+      },
+      {
+        "x": 121,
+        "y": 310
+      },
+      {
+        "x": 121,
+        "y": 318
+      },
+      {
+        "x": 61,
+        "y": 318
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "word": "GRILLED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 61,
+        "y": 332
+      },
+      {
+        "x": 104,
+        "y": 332
+      },
+      {
+        "x": 104,
+        "y": 340
+      },
+      {
+        "x": 61,
+        "y": 340
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "word": "DIJON",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 109,
+        "y": 330
+      },
+      {
+        "x": 146,
+        "y": 330
+      },
+      {
+        "x": 146,
+        "y": 341
+      },
+      {
+        "x": 109,
+        "y": 341
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "word": "SALMON",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 331
+      },
+      {
+        "x": 196,
+        "y": 331
+      },
+      {
+        "x": 196,
+        "y": 339
+      },
+      {
+        "x": 149,
+        "y": 339
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "word": "ocean",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 61,
+        "y": 348
+      },
+      {
+        "x": 90,
+        "y": 348
+      },
+      {
+        "x": 90,
+        "y": 354
+      },
+      {
+        "x": 61,
+        "y": 354
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "word": "wise",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 94,
+        "y": 345
+      },
+      {
+        "x": 123,
+        "y": 345
+      },
+      {
+        "x": 123,
+        "y": 354
+      },
+      {
+        "x": 94,
+        "y": 354
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "word": "lois",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 127,
+        "y": 345
+      },
+      {
+        "x": 143,
+        "y": 345
+      },
+      {
+        "x": 143,
+        "y": 353
+      },
+      {
+        "x": 127,
+        "y": 353
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "word": "lake",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 147,
+        "y": 345
+      },
+      {
+        "x": 166,
+        "y": 345
+      },
+      {
+        "x": 166,
+        "y": 353
+      },
+      {
+        "x": 147,
+        "y": 353
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "word": "steelhead,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 170,
+        "y": 345
+      },
+      {
+        "x": 219,
+        "y": 344
+      },
+      {
+        "x": 219,
+        "y": 352
+      },
+      {
+        "x": 170,
+        "y": 353
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 224,
+        "y": 345
+      },
+      {
+        "x": 264,
+        "y": 345
+      },
+      {
+        "x": 264,
+        "y": 352
+      },
+      {
+        "x": 224,
+        "y": 352
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "word": "mashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 269,
+        "y": 344
+      },
+      {
+        "x": 306,
+        "y": 344
+      },
+      {
+        "x": 306,
+        "y": 352
+      },
+      {
+        "x": 269,
+        "y": 352
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "word": "potatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 311,
+        "y": 344
+      },
+      {
+        "x": 355,
+        "y": 343
+      },
+      {
+        "x": 355,
+        "y": 351
+      },
+      {
+        "x": 311,
+        "y": 352
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 361,
+        "y": 343
+      },
+      {
+        "x": 395,
+        "y": 343
+      },
+      {
+        "x": 395,
+        "y": 350
+      },
+      {
+        "x": 361,
+        "y": 350
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "word": "aspa",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 400,
+        "y": 344
+      },
+      {
+        "x": 419,
+        "y": 344
+      },
+      {
+        "x": 419,
+        "y": 350
+      },
+      {
+        "x": 400,
+        "y": 350
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "word": "THAI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 61,
+        "y": 370
+      },
+      {
+        "x": 86,
+        "y": 370
+      },
+      {
+        "x": 86,
+        "y": 377
+      },
+      {
+        "x": 61,
+        "y": 377
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "word": "RED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 91,
+        "y": 369
+      },
+      {
+        "x": 111,
+        "y": 369
+      },
+      {
+        "x": 111,
+        "y": 377
+      },
+      {
+        "x": 91,
+        "y": 377
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "word": "CURRY",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 116,
+        "y": 368
+      },
+      {
+        "x": 151,
+        "y": 368
+      },
+      {
+        "x": 151,
+        "y": 376
+      },
+      {
+        "x": 116,
+        "y": 376
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "word": "+",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 156,
+        "y": 370
+      },
+      {
+        "x": 160,
+        "y": 370
+      },
+      {
+        "x": 160,
+        "y": 374
+      },
+      {
+        "x": 156,
+        "y": 374
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "word": "PRAWNS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 166,
+        "y": 368
+      },
+      {
+        "x": 212,
+        "y": 368
+      },
+      {
+        "x": 212,
+        "y": 376
+      },
+      {
+        "x": 166,
+        "y": 376
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "word": "sustainably",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 61,
+        "y": 383
+      },
+      {
+        "x": 116,
+        "y": 382
+      },
+      {
+        "x": 116,
+        "y": 392
+      },
+      {
+        "x": 61,
+        "y": 393
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "word": "harvested",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 119,
+        "y": 382
+      },
+      {
+        "x": 167,
+        "y": 381
+      },
+      {
+        "x": 167,
+        "y": 389
+      },
+      {
+        "x": 119,
+        "y": 390
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "word": "prawns,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 172,
+        "y": 383
+      },
+      {
+        "x": 208,
+        "y": 383
+      },
+      {
+        "x": 208,
+        "y": 391
+      },
+      {
+        "x": 172,
+        "y": 391
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "word": "peppers,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 213,
+        "y": 383
+      },
+      {
+        "x": 253,
+        "y": 383
+      },
+      {
+        "x": 253,
+        "y": 390
+      },
+      {
+        "x": 213,
+        "y": 390
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "word": "green",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 258,
+        "y": 383
+      },
+      {
+        "x": 285,
+        "y": 383
+      },
+      {
+        "x": 285,
+        "y": 391
+      },
+      {
+        "x": 258,
+        "y": 391
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "word": "beans,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 289,
+        "y": 381
+      },
+      {
+        "x": 319,
+        "y": 381
+      },
+      {
+        "x": 319,
+        "y": 388
+      },
+      {
+        "x": 289,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 325,
+        "y": 381
+      },
+      {
+        "x": 347,
+        "y": 381
+      },
+      {
+        "x": 347,
+        "y": 389
+      },
+      {
+        "x": 325,
+        "y": 389
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "word": "corn,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 352,
+        "y": 381
+      },
+      {
+        "x": 375,
+        "y": 381
+      },
+      {
+        "x": 375,
+        "y": 388
+      },
+      {
+        "x": 352,
+        "y": 388
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "word": "bamboo",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 380,
+        "y": 380
+      },
+      {
+        "x": 418,
+        "y": 380
+      },
+      {
+        "x": 418,
+        "y": 387
+      },
+      {
+        "x": 380,
+        "y": 387
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "word": "bean",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 62,
+        "y": 397
+      },
+      {
+        "x": 86,
+        "y": 397
+      },
+      {
+        "x": 86,
+        "y": 405
+      },
+      {
+        "x": 62,
+        "y": 405
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "word": "sprouts,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 89,
+        "y": 397
+      },
+      {
+        "x": 128,
+        "y": 396
+      },
+      {
+        "x": 128,
+        "y": 405
+      },
+      {
+        "x": 89,
+        "y": 406
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "word": "wontons,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 132,
+        "y": 396
+      },
+      {
+        "x": 176,
+        "y": 395
+      },
+      {
+        "x": 176,
+        "y": 403
+      },
+      {
+        "x": 132,
+        "y": 404
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "word": "cilantro.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 181,
+        "y": 395
+      },
+      {
+        "x": 216,
+        "y": 394
+      },
+      {
+        "x": 216,
+        "y": 402
+      },
+      {
+        "x": 181,
+        "y": 403
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "word": "22%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 225,
+        "y": 395
+      },
+      {
+        "x": 242,
+        "y": 395
+      },
+      {
+        "x": 242,
+        "y": 403
+      },
+      {
+        "x": 225,
+        "y": 403
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "word": "PASTA",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 423
+      },
+      {
+        "x": 100,
+        "y": 422
+      },
+      {
+        "x": 100,
+        "y": 430
+      },
+      {
+        "x": 63,
+        "y": 431
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "word": "BUTTERNUT",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 444
+      },
+      {
+        "x": 124,
+        "y": 443
+      },
+      {
+        "x": 124,
+        "y": 452
+      },
+      {
+        "x": 63,
+        "y": 453
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "word": "SQUASH",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 129,
+        "y": 443
+      },
+      {
+        "x": 175,
+        "y": 442
+      },
+      {
+        "x": 175,
+        "y": 451
+      },
+      {
+        "x": 129,
+        "y": 452
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "word": "RAVIOLI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 181,
+        "y": 443
+      },
+      {
+        "x": 222,
+        "y": 442
+      },
+      {
+        "x": 222,
+        "y": 450
+      },
+      {
+        "x": 181,
+        "y": 451
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "word": "WITH",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 228,
+        "y": 442
+      },
+      {
+        "x": 254,
+        "y": 442
+      },
+      {
+        "x": 254,
+        "y": 449
+      },
+      {
+        "x": 228,
+        "y": 449
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "word": "PRAWNS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 260,
+        "y": 442
+      },
+      {
+        "x": 306,
+        "y": 441
+      },
+      {
+        "x": 306,
+        "y": 449
+      },
+      {
+        "x": 260,
+        "y": 450
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "word": "chef",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 458
+      },
+      {
+        "x": 83,
+        "y": 458
+      },
+      {
+        "x": 83,
+        "y": 466
+      },
+      {
+        "x": 63,
+        "y": 466
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "word": "rob",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 87,
+        "y": 459
+      },
+      {
+        "x": 103,
+        "y": 459
+      },
+      {
+        "x": 103,
+        "y": 466
+      },
+      {
+        "x": 87,
+        "y": 466
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "word": "feenie's",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 107,
+        "y": 457
+      },
+      {
+        "x": 144,
+        "y": 457
+      },
+      {
+        "x": 144,
+        "y": 466
+      },
+      {
+        "x": 107,
+        "y": 466
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "word": "signature",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 148,
+        "y": 458
+      },
+      {
+        "x": 192,
+        "y": 458
+      },
+      {
+        "x": 192,
+        "y": 467
+      },
+      {
+        "x": 148,
+        "y": 467
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "word": "butternut",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 197,
+        "y": 456
+      },
+      {
+        "x": 241,
+        "y": 456
+      },
+      {
+        "x": 241,
+        "y": 464
+      },
+      {
+        "x": 197,
+        "y": 464
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "word": "squash",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 246,
+        "y": 456
+      },
+      {
+        "x": 278,
+        "y": 456
+      },
+      {
+        "x": 278,
+        "y": 465
+      },
+      {
+        "x": 246,
+        "y": 465
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 283,
+        "y": 456
+      },
+      {
+        "x": 300,
+        "y": 456
+      },
+      {
+        "x": 300,
+        "y": 463
+      },
+      {
+        "x": 283,
+        "y": 463
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "word": "mascarpone",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 305,
+        "y": 457
+      },
+      {
+        "x": 363,
+        "y": 456
+      },
+      {
+        "x": 363,
+        "y": 463
+      },
+      {
+        "x": 305,
+        "y": 464
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "word": "ravioli,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 368,
+        "y": 455
+      },
+      {
+        "x": 398,
+        "y": 455
+      },
+      {
+        "x": 398,
+        "y": 462
+      },
+      {
+        "x": 368,
+        "y": 462
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "word": "truf",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 403,
+        "y": 454
+      },
+      {
+        "x": 418,
+        "y": 454
+      },
+      {
+        "x": 418,
+        "y": 461
+      },
+      {
+        "x": 403,
+        "y": 461
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "word": "saut\u00e9ed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 63,
+        "y": 471
+      },
+      {
+        "x": 101,
+        "y": 470
+      },
+      {
+        "x": 101,
+        "y": 479
+      },
+      {
+        "x": 63,
+        "y": 480
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "word": "jumbo",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 105,
+        "y": 471
+      },
+      {
+        "x": 136,
+        "y": 471
+      },
+      {
+        "x": 136,
+        "y": 481
+      },
+      {
+        "x": 105,
+        "y": 481
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "word": "prawns,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 140,
+        "y": 472
+      },
+      {
+        "x": 177,
+        "y": 472
+      },
+      {
+        "x": 177,
+        "y": 480
+      },
+      {
+        "x": 140,
+        "y": 480
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "word": "pine",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 182,
+        "y": 471
+      },
+      {
+        "x": 201,
+        "y": 471
+      },
+      {
+        "x": 201,
+        "y": 479
+      },
+      {
+        "x": 182,
+        "y": 479
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "word": "nuts,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 206,
+        "y": 471
+      },
+      {
+        "x": 228,
+        "y": 471
+      },
+      {
+        "x": 228,
+        "y": 477
+      },
+      {
+        "x": 206,
+        "y": 477
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "word": "crispy",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 233,
+        "y": 470
+      },
+      {
+        "x": 260,
+        "y": 470
+      },
+      {
+        "x": 260,
+        "y": 479
+      },
+      {
+        "x": 233,
+        "y": 479
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "word": "sage.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 264,
+        "y": 471
+      },
+      {
+        "x": 286,
+        "y": 471
+      },
+      {
+        "x": 286,
+        "y": 478
+      },
+      {
+        "x": 264,
+        "y": 478
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "word": "28%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 295,
+        "y": 470
+      },
+      {
+        "x": 313,
+        "y": 470
+      },
+      {
+        "x": 313,
+        "y": 476
+      },
+      {
+        "x": 295,
+        "y": 476
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "word": "SPAGHETTINI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 64,
+        "y": 496
+      },
+      {
+        "x": 144,
+        "y": 495
+      },
+      {
+        "x": 144,
+        "y": 503
+      },
+      {
+        "x": 64,
+        "y": 504
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "word": "+",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 146,
+        "y": 493
+      },
+      {
+        "x": 150,
+        "y": 493
+      },
+      {
+        "x": 150,
+        "y": 504
+      },
+      {
+        "x": 146,
+        "y": 504
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "word": "KOBE",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 150,
+        "y": 494
+      },
+      {
+        "x": 178,
+        "y": 494
+      },
+      {
+        "x": 178,
+        "y": 502
+      },
+      {
+        "x": 150,
+        "y": 502
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "word": "STYLE",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 183,
+        "y": 494
+      },
+      {
+        "x": 212,
+        "y": 494
+      },
+      {
+        "x": 212,
+        "y": 501
+      },
+      {
+        "x": 183,
+        "y": 501
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "word": "MEATBALLS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 217,
+        "y": 493
+      },
+      {
+        "x": 277,
+        "y": 492
+      },
+      {
+        "x": 277,
+        "y": 501
+      },
+      {
+        "x": 217,
+        "y": 502
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 68,
+        "y": 509
+      },
+      {
+        "x": 99,
+        "y": 509
+      },
+      {
+        "x": 99,
+        "y": 518
+      },
+      {
+        "x": 68,
+        "y": 518
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "word": "tomato",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 103,
+        "y": 508
+      },
+      {
+        "x": 137,
+        "y": 508
+      },
+      {
+        "x": 137,
+        "y": 517
+      },
+      {
+        "x": 103,
+        "y": 517
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "word": "sauce,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 143,
+        "y": 507
+      },
+      {
+        "x": 177,
+        "y": 507
+      },
+      {
+        "x": 177,
+        "y": 517
+      },
+      {
+        "x": 143,
+        "y": 517
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "word": "truffle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 177,
+        "y": 507
+      },
+      {
+        "x": 206,
+        "y": 507
+      },
+      {
+        "x": 206,
+        "y": 515
+      },
+      {
+        "x": 177,
+        "y": 515
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "word": "mushroom",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 211,
+        "y": 507
+      },
+      {
+        "x": 262,
+        "y": 506
+      },
+      {
+        "x": 262,
+        "y": 514
+      },
+      {
+        "x": 211,
+        "y": 515
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "word": "cream,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 267,
+        "y": 508
+      },
+      {
+        "x": 298,
+        "y": 508
+      },
+      {
+        "x": 298,
+        "y": 514
+      },
+      {
+        "x": 267,
+        "y": 514
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 303,
+        "y": 505
+      },
+      {
+        "x": 326,
+        "y": 505
+      },
+      {
+        "x": 326,
+        "y": 514
+      },
+      {
+        "x": 303,
+        "y": 514
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "word": "ricotta",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 331,
+        "y": 507
+      },
+      {
+        "x": 361,
+        "y": 507
+      },
+      {
+        "x": 361,
+        "y": 513
+      },
+      {
+        "x": 331,
+        "y": 513
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "word": "cheese.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 365,
+        "y": 505
+      },
+      {
+        "x": 398,
+        "y": 505
+      },
+      {
+        "x": 398,
+        "y": 513
+      },
+      {
+        "x": 365,
+        "y": 513
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "word": "25",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 408,
+        "y": 506
+      },
+      {
+        "x": 417,
+        "y": 506
+      },
+      {
+        "x": 417,
+        "y": 512
+      },
+      {
+        "x": 408,
+        "y": 512
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "word": "PRAWN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 65,
+        "y": 533
+      },
+      {
+        "x": 104,
+        "y": 533
+      },
+      {
+        "x": 104,
+        "y": 540
+      },
+      {
+        "x": 65,
+        "y": 540
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "word": "SPAGHETTINI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 110,
+        "y": 531
+      },
+      {
+        "x": 180,
+        "y": 530
+      },
+      {
+        "x": 180,
+        "y": 539
+      },
+      {
+        "x": 110,
+        "y": 540
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "word": "slow-roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 64,
+        "y": 545
+      },
+      {
+        "x": 126,
+        "y": 544
+      },
+      {
+        "x": 126,
+        "y": 555
+      },
+      {
+        "x": 64,
+        "y": 556
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "word": "tomato",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 130,
+        "y": 544
+      },
+      {
+        "x": 166,
+        "y": 543
+      },
+      {
+        "x": 166,
+        "y": 554
+      },
+      {
+        "x": 130,
+        "y": 555
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "word": "sauce,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 169,
+        "y": 546
+      },
+      {
+        "x": 200,
+        "y": 546
+      },
+      {
+        "x": 200,
+        "y": 552
+      },
+      {
+        "x": 169,
+        "y": 552
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "word": "chilies,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 204,
+        "y": 544
+      },
+      {
+        "x": 236,
+        "y": 544
+      },
+      {
+        "x": 236,
+        "y": 553
+      },
+      {
+        "x": 204,
+        "y": 553
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "word": "fresh",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 241,
+        "y": 543
+      },
+      {
+        "x": 264,
+        "y": 543
+      },
+      {
+        "x": 264,
+        "y": 551
+      },
+      {
+        "x": 241,
+        "y": 551
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "word": "herbs,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 268,
+        "y": 544
+      },
+      {
+        "x": 297,
+        "y": 544
+      },
+      {
+        "x": 297,
+        "y": 552
+      },
+      {
+        "x": 268,
+        "y": 552
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "word": "crostini.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 306,
+        "y": 541
+      },
+      {
+        "x": 342,
+        "y": 540
+      },
+      {
+        "x": 342,
+        "y": 551
+      },
+      {
+        "x": 306,
+        "y": 552
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "word": "23%",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 345,
+        "y": 544
+      },
+      {
+        "x": 362,
+        "y": 544
+      },
+      {
+        "x": 362,
+        "y": 550
+      },
+      {
+        "x": 345,
+        "y": 550
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "word": "CHICKEN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 66,
+        "y": 571
+      },
+      {
+        "x": 121,
+        "y": 570
+      },
+      {
+        "x": 121,
+        "y": 579
+      },
+      {
+        "x": 66,
+        "y": 580
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "word": "BLACKENED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 592
+      },
+      {
+        "x": 129,
+        "y": 591
+      },
+      {
+        "x": 129,
+        "y": 600
+      },
+      {
+        "x": 67,
+        "y": 601
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "word": "CREOLE",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 134,
+        "y": 592
+      },
+      {
+        "x": 174,
+        "y": 592
+      },
+      {
+        "x": 174,
+        "y": 600
+      },
+      {
+        "x": 134,
+        "y": 600
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "word": "CHICKEN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 180,
+        "y": 593
+      },
+      {
+        "x": 228,
+        "y": 593
+      },
+      {
+        "x": 228,
+        "y": 600
+      },
+      {
+        "x": 180,
+        "y": 600
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "word": "creole",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 69,
+        "y": 606
+      },
+      {
+        "x": 95,
+        "y": 606
+      },
+      {
+        "x": 95,
+        "y": 617
+      },
+      {
+        "x": 69,
+        "y": 617
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "word": "butter,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 99,
+        "y": 605
+      },
+      {
+        "x": 131,
+        "y": 605
+      },
+      {
+        "x": 131,
+        "y": 617
+      },
+      {
+        "x": 99,
+        "y": 617
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "word": "cajun",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 135,
+        "y": 605
+      },
+      {
+        "x": 159,
+        "y": 605
+      },
+      {
+        "x": 159,
+        "y": 616
+      },
+      {
+        "x": 135,
+        "y": 616
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "word": "spices,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 165,
+        "y": 605
+      },
+      {
+        "x": 199,
+        "y": 605
+      },
+      {
+        "x": 199,
+        "y": 616
+      },
+      {
+        "x": 165,
+        "y": 616
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 200,
+        "y": 605
+      },
+      {
+        "x": 240,
+        "y": 605
+      },
+      {
+        "x": 240,
+        "y": 614
+      },
+      {
+        "x": 200,
+        "y": 614
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "word": "mashed",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 245,
+        "y": 605
+      },
+      {
+        "x": 282,
+        "y": 605
+      },
+      {
+        "x": 282,
+        "y": 612
+      },
+      {
+        "x": 245,
+        "y": 612
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "word": "potatoes,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 287,
+        "y": 606
+      },
+      {
+        "x": 330,
+        "y": 606
+      },
+      {
+        "x": 330,
+        "y": 614
+      },
+      {
+        "x": 287,
+        "y": 614
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "word": "roasted",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 335,
+        "y": 604
+      },
+      {
+        "x": 370,
+        "y": 604
+      },
+      {
+        "x": 370,
+        "y": 611
+      },
+      {
+        "x": 335,
+        "y": 611
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "word": "asparagus",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 375,
+        "y": 606
+      },
+      {
+        "x": 419,
+        "y": 606
+      },
+      {
+        "x": 419,
+        "y": 613
+      },
+      {
+        "x": 375,
+        "y": 613
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "word": "THAI",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 630
+      },
+      {
+        "x": 90,
+        "y": 630
+      },
+      {
+        "x": 90,
+        "y": 637
+      },
+      {
+        "x": 67,
+        "y": 637
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "word": "RED",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 96,
+        "y": 630
+      },
+      {
+        "x": 115,
+        "y": 630
+      },
+      {
+        "x": 115,
+        "y": 638
+      },
+      {
+        "x": 96,
+        "y": 638
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "word": "CURRY",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 120,
+        "y": 629
+      },
+      {
+        "x": 154,
+        "y": 629
+      },
+      {
+        "x": 154,
+        "y": 638
+      },
+      {
+        "x": 120,
+        "y": 638
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "word": "+",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 160,
+        "y": 631
+      },
+      {
+        "x": 164,
+        "y": 631
+      },
+      {
+        "x": 164,
+        "y": 635
+      },
+      {
+        "x": 160,
+        "y": 635
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "word": "CHICKEN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 169,
+        "y": 629
+      },
+      {
+        "x": 217,
+        "y": 629
+      },
+      {
+        "x": 217,
+        "y": 637
+      },
+      {
+        "x": 169,
+        "y": 637
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "word": "peppers,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 641
+      },
+      {
+        "x": 112,
+        "y": 640
+      },
+      {
+        "x": 112,
+        "y": 653
+      },
+      {
+        "x": 67,
+        "y": 654
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "word": "green",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 115,
+        "y": 641
+      },
+      {
+        "x": 136,
+        "y": 641
+      },
+      {
+        "x": 136,
+        "y": 653
+      },
+      {
+        "x": 115,
+        "y": 653
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "word": "beans,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 141,
+        "y": 641
+      },
+      {
+        "x": 177,
+        "y": 641
+      },
+      {
+        "x": 177,
+        "y": 653
+      },
+      {
+        "x": 141,
+        "y": 653
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "word": "baby",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 180,
+        "y": 640
+      },
+      {
+        "x": 199,
+        "y": 640
+      },
+      {
+        "x": 199,
+        "y": 653
+      },
+      {
+        "x": 180,
+        "y": 653
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "word": "corn,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 206,
+        "y": 640
+      },
+      {
+        "x": 229,
+        "y": 640
+      },
+      {
+        "x": 229,
+        "y": 652
+      },
+      {
+        "x": 206,
+        "y": 652
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "word": "bamboo",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 232,
+        "y": 639
+      },
+      {
+        "x": 271,
+        "y": 639
+      },
+      {
+        "x": 271,
+        "y": 652
+      },
+      {
+        "x": 232,
+        "y": 652
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "word": "shoots,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 275,
+        "y": 639
+      },
+      {
+        "x": 312,
+        "y": 639
+      },
+      {
+        "x": 312,
+        "y": 651
+      },
+      {
+        "x": 275,
+        "y": 651
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "word": "jasmine",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 314,
+        "y": 638
+      },
+      {
+        "x": 351,
+        "y": 638
+      },
+      {
+        "x": 351,
+        "y": 651
+      },
+      {
+        "x": 314,
+        "y": 651
+      }
+    ]
+  },
+  {
+    "number": 200,
+    "word": "rice,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 353,
+        "y": 638
+      },
+      {
+        "x": 377,
+        "y": 638
+      },
+      {
+        "x": 377,
+        "y": 650
+      },
+      {
+        "x": 353,
+        "y": 650
+      }
+    ]
+  },
+  {
+    "number": 201,
+    "word": "bean",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 379,
+        "y": 638
+      },
+      {
+        "x": 403,
+        "y": 638
+      },
+      {
+        "x": 403,
+        "y": 650
+      },
+      {
+        "x": 379,
+        "y": 650
+      }
+    ]
+  },
+  {
+    "number": 202,
+    "word": "spr",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 405,
+        "y": 638
+      },
+      {
+        "x": 419,
+        "y": 638
+      },
+      {
+        "x": 419,
+        "y": 650
+      },
+      {
+        "x": 405,
+        "y": 650
+      }
+    ]
+  },
+  {
+    "number": 203,
+    "word": "HUNTER",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 668
+      },
+      {
+        "x": 109,
+        "y": 667
+      },
+      {
+        "x": 109,
+        "y": 675
+      },
+      {
+        "x": 67,
+        "y": 676
+      }
+    ]
+  },
+  {
+    "number": 204,
+    "word": "CHICKEN",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 114,
+        "y": 667
+      },
+      {
+        "x": 163,
+        "y": 666
+      },
+      {
+        "x": 163,
+        "y": 675
+      },
+      {
+        "x": 114,
+        "y": 676
+      }
+    ]
+  },
+  {
+    "number": 205,
+    "word": "shiitake,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 681
+      },
+      {
+        "x": 111,
+        "y": 681
+      },
+      {
+        "x": 111,
+        "y": 692
+      },
+      {
+        "x": 67,
+        "y": 692
+      }
+    ]
+  },
+  {
+    "number": 206,
+    "word": "portobello,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 113,
+        "y": 680
+      },
+      {
+        "x": 165,
+        "y": 680
+      },
+      {
+        "x": 165,
+        "y": 692
+      },
+      {
+        "x": 113,
+        "y": 692
+      }
+    ]
+  },
+  {
+    "number": 207,
+    "word": "button",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 167,
+        "y": 680
+      },
+      {
+        "x": 199,
+        "y": 680
+      },
+      {
+        "x": 199,
+        "y": 691
+      },
+      {
+        "x": 167,
+        "y": 691
+      }
+    ]
+  },
+  {
+    "number": 208,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 203,
+        "y": 680
+      },
+      {
+        "x": 219,
+        "y": 680
+      },
+      {
+        "x": 219,
+        "y": 691
+      },
+      {
+        "x": 203,
+        "y": 691
+      }
+    ]
+  },
+  {
+    "number": 209,
+    "word": "crimini",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 223,
+        "y": 680
+      },
+      {
+        "x": 254,
+        "y": 680
+      },
+      {
+        "x": 254,
+        "y": 688
+      },
+      {
+        "x": 223,
+        "y": 688
+      }
+    ]
+  },
+  {
+    "number": 210,
+    "word": "mushroom",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 259,
+        "y": 680
+      },
+      {
+        "x": 310,
+        "y": 680
+      },
+      {
+        "x": 310,
+        "y": 687
+      },
+      {
+        "x": 259,
+        "y": 687
+      }
+    ]
+  },
+  {
+    "number": 211,
+    "word": "demi-glace,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 315,
+        "y": 679
+      },
+      {
+        "x": 371,
+        "y": 678
+      },
+      {
+        "x": 371,
+        "y": 688
+      },
+      {
+        "x": 315,
+        "y": 689
+      }
+    ]
+  },
+  {
+    "number": 212,
+    "word": "buttered",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 376,
+        "y": 679
+      },
+      {
+        "x": 416,
+        "y": 679
+      },
+      {
+        "x": 416,
+        "y": 686
+      },
+      {
+        "x": 376,
+        "y": 686
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "number": 0,
+    "word": "Daemon-Sets",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 2,
+        "word": "Daemon",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 110,
+            "y": 169
+          },
+          {
+            "x": 193,
+            "y": 168
+          },
+          {
+            "x": 193,
+            "y": 184
+          },
+          {
+            "x": 110,
+            "y": 185
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "word": "Sets",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 201,
+            "y": 166
+          },
+          {
+            "x": 246,
+            "y": 165
+          },
+          {
+            "x": 246,
+            "y": 183
+          },
+          {
+            "x": 201,
+            "y": 184
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 166,
+        "x": 110
+      },
+      {
+        "y": 166,
+        "x": 246
+      },
+      {
+        "y": 184,
+        "x": 246
+      },
+      {
+        "y": 184,
+        "x": 110
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "Deployments",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 4,
+        "word": "Deployments",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 112,
+            "y": 221
+          },
+          {
+            "x": 242,
+            "y": 221
+          },
+          {
+            "x": 242,
+            "y": 243
+          },
+          {
+            "x": 112,
+            "y": 243
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 221,
+        "x": 112
+      },
+      {
+        "y": 221,
+        "x": 242
+      },
+      {
+        "y": 243,
+        "x": 242
+      },
+      {
+        "y": 243,
+        "x": 112
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "Pods",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 6,
+        "word": "Pods",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 117,
+            "y": 324
+          },
+          {
+            "x": 164,
+            "y": 324
+          },
+          {
+            "x": 164,
+            "y": 341
+          },
+          {
+            "x": 117,
+            "y": 341
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 324,
+        "x": 117
+      },
+      {
+        "y": 324,
+        "x": 164
+      },
+      {
+        "y": 341,
+        "x": 164
+      },
+      {
+        "y": 341,
+        "x": 117
+      }
+    ]
+  }
+]

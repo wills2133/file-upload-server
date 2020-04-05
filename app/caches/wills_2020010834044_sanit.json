@@ -1,0 +1,578 @@
+[
+  {
+    "number": 0,
+    "word": "Overview",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 84,
+        "y": 24
+      },
+      {
+        "x": 181,
+        "y": 21
+      },
+      {
+        "x": 181,
+        "y": 41
+      },
+      {
+        "x": 85,
+        "y": 44
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "Workloads",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 87,
+        "y": 102
+      },
+      {
+        "x": 197,
+        "y": 99
+      },
+      {
+        "x": 197,
+        "y": 118
+      },
+      {
+        "x": 87,
+        "y": 121
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "Daemon",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 110,
+        "y": 169
+      },
+      {
+        "x": 193,
+        "y": 168
+      },
+      {
+        "x": 193,
+        "y": 184
+      },
+      {
+        "x": 110,
+        "y": 185
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "Sets",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 201,
+        "y": 166
+      },
+      {
+        "x": 246,
+        "y": 165
+      },
+      {
+        "x": 246,
+        "y": 183
+      },
+      {
+        "x": 201,
+        "y": 184
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "Deployments",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 112,
+        "y": 221
+      },
+      {
+        "x": 242,
+        "y": 221
+      },
+      {
+        "x": 242,
+        "y": 243
+      },
+      {
+        "x": 112,
+        "y": 243
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "Jobs",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 113,
+        "y": 274
+      },
+      {
+        "x": 161,
+        "y": 274
+      },
+      {
+        "x": 161,
+        "y": 291
+      },
+      {
+        "x": 113,
+        "y": 291
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "Pods",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 117,
+        "y": 324
+      },
+      {
+        "x": 164,
+        "y": 324
+      },
+      {
+        "x": 164,
+        "y": 341
+      },
+      {
+        "x": 117,
+        "y": 341
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "Replica",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 118,
+        "y": 374
+      },
+      {
+        "x": 186,
+        "y": 374
+      },
+      {
+        "x": 186,
+        "y": 393
+      },
+      {
+        "x": 118,
+        "y": 393
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "Sets",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 195,
+        "y": 375
+      },
+      {
+        "x": 235,
+        "y": 375
+      },
+      {
+        "x": 235,
+        "y": 390
+      },
+      {
+        "x": 195,
+        "y": 390
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "Replication",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 120,
+        "y": 421
+      },
+      {
+        "x": 224,
+        "y": 422
+      },
+      {
+        "x": 224,
+        "y": 443
+      },
+      {
+        "x": 120,
+        "y": 442
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "Controllers",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 232,
+        "y": 423
+      },
+      {
+        "x": 338,
+        "y": 424
+      },
+      {
+        "x": 338,
+        "y": 441
+      },
+      {
+        "x": 232,
+        "y": 440
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "Stateful",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 121,
+        "y": 466
+      },
+      {
+        "x": 192,
+        "y": 468
+      },
+      {
+        "x": 191,
+        "y": 485
+      },
+      {
+        "x": 120,
+        "y": 483
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "Sets",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 201,
+        "y": 470
+      },
+      {
+        "x": 240,
+        "y": 471
+      },
+      {
+        "x": 240,
+        "y": 486
+      },
+      {
+        "x": 201,
+        "y": 485
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "Discovery",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 106,
+        "y": 521
+      },
+      {
+        "x": 195,
+        "y": 524
+      },
+      {
+        "x": 194,
+        "y": 543
+      },
+      {
+        "x": 105,
+        "y": 540
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 203,
+        "y": 523
+      },
+      {
+        "x": 236,
+        "y": 524
+      },
+      {
+        "x": 235,
+        "y": 540
+      },
+      {
+        "x": 202,
+        "y": 539
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "Load",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 244,
+        "y": 524
+      },
+      {
+        "x": 288,
+        "y": 525
+      },
+      {
+        "x": 287,
+        "y": 541
+      },
+      {
+        "x": 243,
+        "y": 540
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "Balancing",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 297,
+        "y": 526
+      },
+      {
+        "x": 391,
+        "y": 529
+      },
+      {
+        "x": 390,
+        "y": 549
+      },
+      {
+        "x": 296,
+        "y": 546
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "Ingresses",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 125,
+        "y": 574
+      },
+      {
+        "x": 212,
+        "y": 577
+      },
+      {
+        "x": 211,
+        "y": 593
+      },
+      {
+        "x": 124,
+        "y": 590
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "Services",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 127,
+        "y": 615
+      },
+      {
+        "x": 201,
+        "y": 619
+      },
+      {
+        "x": 200,
+        "y": 632
+      },
+      {
+        "x": 126,
+        "y": 628
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "Config",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 113,
+        "y": 661
+      },
+      {
+        "x": 167,
+        "y": 664
+      },
+      {
+        "x": 166,
+        "y": 682
+      },
+      {
+        "x": 112,
+        "y": 679
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "word": "and",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 175,
+        "y": 666
+      },
+      {
+        "x": 206,
+        "y": 668
+      },
+      {
+        "x": 205,
+        "y": 681
+      },
+      {
+        "x": 174,
+        "y": 679
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "word": "Storage",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 214,
+        "y": 668
+      },
+      {
+        "x": 283,
+        "y": 672
+      },
+      {
+        "x": 282,
+        "y": 689
+      },
+      {
+        "x": 213,
+        "y": 685
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "word": "Config",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 125,
+        "y": 709
+      },
+      {
+        "x": 185,
+        "y": 713
+      },
+      {
+        "x": 184,
+        "y": 728
+      },
+      {
+        "x": 124,
+        "y": 724
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "word": "Maps",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 192,
+        "y": 714
+      },
+      {
+        "x": 242,
+        "y": 717
+      },
+      {
+        "x": 241,
+        "y": 732
+      },
+      {
+        "x": 191,
+        "y": 729
+      }
+    ]
+  }
+]

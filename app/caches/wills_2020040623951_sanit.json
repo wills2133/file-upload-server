@@ -1,0 +1,170 @@
+[
+  {
+    "number": 0,
+    "word": "Steak",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 64,
+        "y": 99
+      },
+      {
+        "x": 247,
+        "y": 96
+      },
+      {
+        "x": 248,
+        "y": 154
+      },
+      {
+        "x": 65,
+        "y": 157
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 212
+      },
+      {
+        "x": 204,
+        "y": 209
+      },
+      {
+        "x": 205,
+        "y": 269
+      },
+      {
+        "x": 68,
+        "y": 272
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "noodle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 69,
+        "y": 298
+      },
+      {
+        "x": 263,
+        "y": 297
+      },
+      {
+        "x": 263,
+        "y": 347
+      },
+      {
+        "x": 69,
+        "y": 348
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "cheese",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 67,
+        "y": 387
+      },
+      {
+        "x": 209,
+        "y": 388
+      },
+      {
+        "x": 209,
+        "y": 423
+      },
+      {
+        "x": 67,
+        "y": 422
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "burger",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 238,
+        "y": 384
+      },
+      {
+        "x": 377,
+        "y": 385
+      },
+      {
+        "x": 377,
+        "y": 426
+      },
+      {
+        "x": 238,
+        "y": 425
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "Chicken",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 68,
+        "y": 452
+      },
+      {
+        "x": 202,
+        "y": 452
+      },
+      {
+        "x": 202,
+        "y": 482
+      },
+      {
+        "x": 68,
+        "y": 482
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "wings",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 215,
+        "y": 450
+      },
+      {
+        "x": 314,
+        "y": 450
+      },
+      {
+        "x": 314,
+        "y": 484
+      },
+      {
+        "x": 215,
+        "y": 484
+      }
+    ]
+  }
+]

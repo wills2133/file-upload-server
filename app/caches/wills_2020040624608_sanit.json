@@ -1,0 +1,480 @@
+[
+  {
+    "number": 0,
+    "word": "OneNote",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 31
+      },
+      {
+        "x": 72
+      },
+      {
+        "x": 72,
+        "y": 6
+      },
+      {
+        "x": 31,
+        "y": 6
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "Wills",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 355,
+        "y": 1
+      },
+      {
+        "x": 373,
+        "y": 1
+      },
+      {
+        "x": 373,
+        "y": 7
+      },
+      {
+        "x": 355,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "Wu",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 376,
+        "y": 1
+      },
+      {
+        "x": 388,
+        "y": 1
+      },
+      {
+        "x": 388,
+        "y": 7
+      },
+      {
+        "x": 376,
+        "y": 7
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "Heading",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 259,
+        "y": 45
+      },
+      {
+        "x": 308,
+        "y": 45
+      },
+      {
+        "x": 308,
+        "y": 57
+      },
+      {
+        "x": 259,
+        "y": 57
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "1",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 314,
+        "y": 46
+      },
+      {
+        "x": 318,
+        "y": 46
+      },
+      {
+        "x": 318,
+        "y": 54
+      },
+      {
+        "x": 314,
+        "y": 54
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "Dicta",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 400,
+        "y": 47
+      },
+      {
+        "x": 419,
+        "y": 47
+      },
+      {
+        "x": 419,
+        "y": 53
+      },
+      {
+        "x": 400,
+        "y": 53
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "Steak",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 128,
+        "y": 120
+      },
+      {
+        "x": 243,
+        "y": 119
+      },
+      {
+        "x": 243,
+        "y": 154
+      },
+      {
+        "x": 128,
+        "y": 155
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 130,
+        "y": 189
+      },
+      {
+        "x": 217,
+        "y": 189
+      },
+      {
+        "x": 217,
+        "y": 226
+      },
+      {
+        "x": 130,
+        "y": 226
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "noodle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 131,
+        "y": 244
+      },
+      {
+        "x": 254,
+        "y": 243
+      },
+      {
+        "x": 254,
+        "y": 274
+      },
+      {
+        "x": 131,
+        "y": 275
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "cheese",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 130,
+        "y": 300
+      },
+      {
+        "x": 220,
+        "y": 301
+      },
+      {
+        "x": 220,
+        "y": 323
+      },
+      {
+        "x": 130,
+        "y": 322
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "burger",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 239,
+        "y": 299
+      },
+      {
+        "x": 328,
+        "y": 300
+      },
+      {
+        "x": 328,
+        "y": 327
+      },
+      {
+        "x": 239,
+        "y": 326
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "Chicken",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 130,
+        "y": 341
+      },
+      {
+        "x": 216,
+        "y": 341
+      },
+      {
+        "x": 216,
+        "y": 361
+      },
+      {
+        "x": 130,
+        "y": 361
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "wings",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 225,
+        "y": 341
+      },
+      {
+        "x": 287,
+        "y": 341
+      },
+      {
+        "x": 287,
+        "y": 363
+      },
+      {
+        "x": 225,
+        "y": 363
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "192.168.0.33)",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 4,
+        "y": 617
+      },
+      {
+        "x": 57,
+        "y": 615
+      },
+      {
+        "x": 57,
+        "y": 625
+      },
+      {
+        "x": 4,
+        "y": 627
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "Pa",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 407,
+        "y": 719
+      },
+      {
+        "x": 419,
+        "y": 719
+      },
+      {
+        "x": 419,
+        "y": 729
+      },
+      {
+        "x": 407,
+        "y": 729
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "Home",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 238,
+        "y": 727
+      },
+      {
+        "x": 271,
+        "y": 726
+      },
+      {
+        "x": 271,
+        "y": 736
+      },
+      {
+        "x": 238,
+        "y": 737
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "F9",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 277,
+        "y": 739
+      },
+      {
+        "x": 286,
+        "y": 739
+      },
+      {
+        "x": 286,
+        "y": 745
+      },
+      {
+        "x": 277,
+        "y": 745
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "End",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 329,
+        "y": 722
+      },
+      {
+        "x": 349,
+        "y": 721
+      },
+      {
+        "x": 349,
+        "y": 731
+      },
+      {
+        "x": 329,
+        "y": 732
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "F10",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 358,
+        "y": 734
+      },
+      {
+        "x": 371,
+        "y": 734
+      },
+      {
+        "x": 371,
+        "y": 741
+      },
+      {
+        "x": 358,
+        "y": 741
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "PrtScn",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 153,
+        "y": 730
+      },
+      {
+        "x": 188,
+        "y": 730
+      },
+      {
+        "x": 188,
+        "y": 740
+      },
+      {
+        "x": 153,
+        "y": 740
+      }
+    ]
+  }
+]

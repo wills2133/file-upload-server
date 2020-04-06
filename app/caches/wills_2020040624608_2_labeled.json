@@ -1,0 +1,102 @@
+[
+  {
+    "number": 0,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 7,
+        "word": "pizza",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 130,
+            "y": 189
+          },
+          {
+            "x": 217,
+            "y": 189
+          },
+          {
+            "x": 217,
+            "y": 226
+          },
+          {
+            "x": 130,
+            "y": 226
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 189,
+        "x": 130
+      },
+      {
+        "y": 189,
+        "x": 217
+      },
+      {
+        "y": 226,
+        "x": 217
+      },
+      {
+        "y": 226,
+        "x": 130
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "noodle",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 8,
+        "word": "noodle",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 131,
+            "y": 244
+          },
+          {
+            "x": 254,
+            "y": 243
+          },
+          {
+            "x": 254,
+            "y": 274
+          },
+          {
+            "x": 131,
+            "y": 275
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 244,
+        "x": 131
+      },
+      {
+        "y": 244,
+        "x": 254
+      },
+      {
+        "y": 274,
+        "x": 254
+      },
+      {
+        "y": 274,
+        "x": 131
+      }
+    ]
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "number": 0,
+    "word": "Steak",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 123,
+        "y": 95
+      },
+      {
+        "x": 258,
+        "y": 90
+      },
+      {
+        "x": 260,
+        "y": 134
+      },
+      {
+        "x": 125,
+        "y": 139
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 129,
+        "y": 179
+      },
+      {
+        "x": 230,
+        "y": 175
+      },
+      {
+        "x": 232,
+        "y": 220
+      },
+      {
+        "x": 131,
+        "y": 224
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "noodle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 133,
+        "y": 243
+      },
+      {
+        "x": 273,
+        "y": 237
+      },
+      {
+        "x": 274,
+        "y": 273
+      },
+      {
+        "x": 135,
+        "y": 279
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "cheese",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 135,
+        "y": 308
+      },
+      {
+        "x": 235,
+        "y": 305
+      },
+      {
+        "x": 236,
+        "y": 330
+      },
+      {
+        "x": 136,
+        "y": 333
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "burger",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 257,
+        "y": 303
+      },
+      {
+        "x": 359,
+        "y": 300
+      },
+      {
+        "x": 360,
+        "y": 329
+      },
+      {
+        "x": 258,
+        "y": 332
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "Chicken",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 137,
+        "y": 355
+      },
+      {
+        "x": 232,
+        "y": 352
+      },
+      {
+        "x": 233,
+        "y": 373
+      },
+      {
+        "x": 138,
+        "y": 376
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "wings",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 242,
+        "y": 351
+      },
+      {
+        "x": 313,
+        "y": 349
+      },
+      {
+        "x": 314,
+        "y": 372
+      },
+      {
+        "x": 243,
+        "y": 374
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "p+'.png')",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 124,
+        "y": 485
+      },
+      {
+        "x": 192,
+        "y": 481
+      },
+      {
+        "x": 193,
+        "y": 496
+      },
+      {
+        "x": 125,
+        "y": 500
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "##",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 202,
+        "y": 483
+      },
+      {
+        "x": 213,
+        "y": 482
+      },
+      {
+        "x": 213,
+        "y": 489
+      },
+      {
+        "x": 202,
+        "y": 490
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "for",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 222,
+        "y": 482
+      },
+      {
+        "x": 240,
+        "y": 481
+      },
+      {
+        "x": 240,
+        "y": 488
+      },
+      {
+        "x": 222,
+        "y": 489
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "jpg/png",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 249,
+        "y": 480
+      },
+      {
+        "x": 294,
+        "y": 478
+      },
+      {
+        "x": 294,
+        "y": 488
+      },
+      {
+        "x": 250,
+        "y": 490
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "format",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 302,
+        "y": 477
+      },
+      {
+        "x": 340,
+        "y": 475
+      },
+      {
+        "x": 340,
+        "y": 484
+      },
+      {
+        "x": 302,
+        "y": 486
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "g.",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 1,
+        "y": 492
+      },
+      {
+        "x": 16,
+        "y": 491
+      },
+      {
+        "x": 17,
+        "y": 508
+      },
+      {
+        "x": 2,
+        "y": 509
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "view_args)",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 18,
+        "y": 492
+      },
+      {
+        "x": 75,
+        "y": 490
+      },
+      {
+        "x": 76,
+        "y": 507
+      },
+      {
+        "x": 19,
+        "y": 509
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "lers.py\",",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 1,
+        "y": 507
+      },
+      {
+        "x": 54,
+        "y": 504
+      },
+      {
+        "x": 55,
+        "y": 517
+      },
+      {
+        "x": 2,
+        "y": 520
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "line",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 59,
+        "y": 504
+      },
+      {
+        "x": 89,
+        "y": 502
+      },
+      {
+        "x": 90,
+        "y": 512
+      },
+      {
+        "x": 60,
+        "y": 514
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "27",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 97,
+        "y": 504
+      },
+      {
+        "x": 108,
+        "y": 503
+      },
+      {
+        "x": 109,
+        "y": 512
+      },
+      {
+        "x": 98,
+        "y": 513
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "ctory:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 1,
+        "y": 542
+      },
+      {
+        "x": 37,
+        "y": 540
+      },
+      {
+        "x": 38,
+        "y": 556
+      },
+      {
+        "x": 2,
+        "y": 558
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "'./app/cach",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 43,
+        "y": 543
+      },
+      {
+        "x": 110,
+        "y": 540
+      },
+      {
+        "x": 110,
+        "y": 550
+      },
+      {
+        "x": 43,
+        "y": 553
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "rver/app/controlle",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 1,
+        "y": 566
+      },
+      {
+        "x": 114,
+        "y": 561
+      },
+      {
+        "x": 115,
+        "y": 577
+      },
+      {
+        "x": 2,
+        "y": 582
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "word": "'1,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 133,
+        "y": 595
+      },
+      {
+        "x": 167,
+        "y": 593
+      },
+      {
+        "x": 168,
+        "y": 609
+      },
+      {
+        "x": 134,
+        "y": 611
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "word": "f,",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 168,
+        "y": 595
+      },
+      {
+        "x": 178,
+        "y": 594
+      },
+      {
+        "x": 179,
+        "y": 604
+      },
+      {
+        "x": 169,
+        "y": 605
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "word": "indent=2)",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 189,
+        "y": 594
+      },
+      {
+        "x": 245,
+        "y": 591
+      },
+      {
+        "x": 246,
+        "y": 602
+      },
+      {
+        "x": 190,
+        "y": 605
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "word": "rm.mobatek.net",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 1,
+        "y": 647
+      },
+      {
+        "x": 59,
+        "y": 644
+      },
+      {
+        "x": 59,
+        "y": 652
+      },
+      {
+        "x": 1,
+        "y": 655
+      }
+    ]
+  }
+]

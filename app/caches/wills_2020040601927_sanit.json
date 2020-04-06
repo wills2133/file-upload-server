@@ -1,0 +1,1010 @@
+[
+  {
+    "number": 0,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 134,
+        "y": 5
+      },
+      {
+        "x": 145,
+        "y": 5
+      },
+      {
+        "x": 145,
+        "y": 27
+      },
+      {
+        "x": 134,
+        "y": 27
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "config.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 144,
+        "y": 7
+      },
+      {
+        "x": 204,
+        "y": 8
+      },
+      {
+        "x": 204,
+        "y": 25
+      },
+      {
+        "x": 144,
+        "y": 24
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "word": "A",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 117,
+        "y": 57
+      },
+      {
+        "x": 127,
+        "y": 57
+      },
+      {
+        "x": 127,
+        "y": 75
+      },
+      {
+        "x": 117,
+        "y": 75
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "word": "Project",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 129,
+        "y": 57
+      },
+      {
+        "x": 171,
+        "y": 58
+      },
+      {
+        "x": 171,
+        "y": 77
+      },
+      {
+        "x": 129,
+        "y": 76
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "word": "assets",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 100
+      },
+      {
+        "x": 192,
+        "y": 99
+      },
+      {
+        "x": 192,
+        "y": 110
+      },
+      {
+        "x": 149,
+        "y": 111
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "word": "src",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 139
+      },
+      {
+        "x": 168,
+        "y": 139
+      },
+      {
+        "x": 168,
+        "y": 147
+      },
+      {
+        "x": 149,
+        "y": 147
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "word": "components",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 169,
+        "y": 173
+      },
+      {
+        "x": 259,
+        "y": 171
+      },
+      {
+        "x": 259,
+        "y": 186
+      },
+      {
+        "x": 169,
+        "y": 188
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "word": "screens",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 170,
+        "y": 212
+      },
+      {
+        "x": 222,
+        "y": 211
+      },
+      {
+        "x": 222,
+        "y": 221
+      },
+      {
+        "x": 170,
+        "y": 222
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "word": "utils",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 170,
+        "y": 245
+      },
+      {
+        "x": 199,
+        "y": 245
+      },
+      {
+        "x": 199,
+        "y": 257
+      },
+      {
+        "x": 170,
+        "y": 257
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 182,
+        "y": 278
+      },
+      {
+        "x": 192,
+        "y": 278
+      },
+      {
+        "x": 192,
+        "y": 299
+      },
+      {
+        "x": 182,
+        "y": 299
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "word": "apis.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 190,
+        "y": 281
+      },
+      {
+        "x": 233,
+        "y": 282
+      },
+      {
+        "x": 233,
+        "y": 298
+      },
+      {
+        "x": 190,
+        "y": 297
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 182,
+        "y": 313
+      },
+      {
+        "x": 192,
+        "y": 313
+      },
+      {
+        "x": 192,
+        "y": 332
+      },
+      {
+        "x": 182,
+        "y": 332
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "word": "config.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 190,
+        "y": 315
+      },
+      {
+        "x": 247,
+        "y": 316
+      },
+      {
+        "x": 247,
+        "y": 332
+      },
+      {
+        "x": 190,
+        "y": 331
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 183,
+        "y": 349
+      },
+      {
+        "x": 192,
+        "y": 349
+      },
+      {
+        "x": 192,
+        "y": 368
+      },
+      {
+        "x": 183,
+        "y": 368
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "word": "util.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 191,
+        "y": 351
+      },
+      {
+        "x": 227,
+        "y": 351
+      },
+      {
+        "x": 227,
+        "y": 367
+      },
+      {
+        "x": 191,
+        "y": 367
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 159,
+        "y": 383
+      },
+      {
+        "x": 170,
+        "y": 383
+      },
+      {
+        "x": 170,
+        "y": 402
+      },
+      {
+        "x": 159,
+        "y": 402
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "word": "main.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 171,
+        "y": 386
+      },
+      {
+        "x": 220,
+        "y": 386
+      },
+      {
+        "x": 220,
+        "y": 401
+      },
+      {
+        "x": 171,
+        "y": 401
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "word": "23",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 407,
+        "y": 398
+      },
+      {
+        "x": 419,
+        "y": 398
+      },
+      {
+        "x": 419,
+        "y": 408
+      },
+      {
+        "x": 407,
+        "y": 408
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "word": "I",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 159,
+        "y": 417
+      },
+      {
+        "x": 170,
+        "y": 417
+      },
+      {
+        "x": 170,
+        "y": 436
+      },
+      {
+        "x": 159,
+        "y": 436
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "word": "styles.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 171,
+        "y": 420
+      },
+      {
+        "x": 224,
+        "y": 421
+      },
+      {
+        "x": 224,
+        "y": 436
+      },
+      {
+        "x": 171,
+        "y": 435
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "word": "24",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 406,
+        "y": 420
+      },
+      {
+        "x": 419,
+        "y": 420
+      },
+      {
+        "x": 419,
+        "y": 431
+      },
+      {
+        "x": 406,
+        "y": 431
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "word": "25",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 406,
+        "y": 443
+      },
+      {
+        "x": 419,
+        "y": 443
+      },
+      {
+        "x": 419,
+        "y": 453
+      },
+      {
+        "x": 406,
+        "y": 453
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "word": "S",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 143,
+        "y": 452
+      },
+      {
+        "x": 153,
+        "y": 452
+      },
+      {
+        "x": 153,
+        "y": 470
+      },
+      {
+        "x": 143,
+        "y": 470
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "word": "App.js",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 152,
+        "y": 454
+      },
+      {
+        "x": 193,
+        "y": 454
+      },
+      {
+        "x": 193,
+        "y": 467
+      },
+      {
+        "x": 152,
+        "y": 467
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "word": "ERRORS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 116,
+        "y": 492
+      },
+      {
+        "x": 164,
+        "y": 492
+      },
+      {
+        "x": 164,
+        "y": 501
+      },
+      {
+        "x": 116,
+        "y": 501
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "word": "LOGS",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 211,
+        "y": 493
+      },
+      {
+        "x": 242,
+        "y": 492
+      },
+      {
+        "x": 242,
+        "y": 501
+      },
+      {
+        "x": 211,
+        "y": 502
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "word": "Element",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 107,
+        "y": 529
+      },
+      {
+        "x": 167,
+        "y": 529
+      },
+      {
+        "x": 167,
+        "y": 540
+      },
+      {
+        "x": 107,
+        "y": 540
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "word": "type",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 179,
+        "y": 531
+      },
+      {
+        "x": 212,
+        "y": 531
+      },
+      {
+        "x": 212,
+        "y": 544
+      },
+      {
+        "x": 179,
+        "y": 544
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "word": "is",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 224,
+        "y": 530
+      },
+      {
+        "x": 239,
+        "y": 530
+      },
+      {
+        "x": 239,
+        "y": 541
+      },
+      {
+        "x": 224,
+        "y": 541
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "word": "invalid:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 251,
+        "y": 530
+      },
+      {
+        "x": 319,
+        "y": 530
+      },
+      {
+        "x": 319,
+        "y": 542
+      },
+      {
+        "x": 251,
+        "y": 542
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "word": "expected",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 333,
+        "y": 529
+      },
+      {
+        "x": 402,
+        "y": 529
+      },
+      {
+        "x": 402,
+        "y": 545
+      },
+      {
+        "x": 333,
+        "y": 545
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "word": "a",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 410,
+        "y": 529
+      },
+      {
+        "x": 419,
+        "y": 529
+      },
+      {
+        "x": 419,
+        "y": 545
+      },
+      {
+        "x": 410,
+        "y": 545
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "word": "Device:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 149,
+        "y": 695
+      },
+      {
+        "x": 194,
+        "y": 695
+      },
+      {
+        "x": 194,
+        "y": 705
+      },
+      {
+        "x": 149,
+        "y": 705
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "word": "Invariant",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 200,
+        "y": 696
+      },
+      {
+        "x": 257,
+        "y": 697
+      },
+      {
+        "x": 257,
+        "y": 707
+      },
+      {
+        "x": 200,
+        "y": 706
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "word": "Violation:",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 262,
+        "y": 697
+      },
+      {
+        "x": 323,
+        "y": 698
+      },
+      {
+        "x": 323,
+        "y": 708
+      },
+      {
+        "x": 262,
+        "y": 707
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "word": "Invariant",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 329,
+        "y": 697
+      },
+      {
+        "x": 386,
+        "y": 698
+      },
+      {
+        "x": 386,
+        "y": 708
+      },
+      {
+        "x": 329,
+        "y": 707
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "word": "Viola",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 391,
+        "y": 698
+      },
+      {
+        "x": 419,
+        "y": 698
+      },
+      {
+        "x": 419,
+        "y": 708
+      },
+      {
+        "x": 391,
+        "y": 708
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "word": "O",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 187,
+        "y": 729
+      },
+      {
+        "x": 197,
+        "y": 729
+      },
+      {
+        "x": 197,
+        "y": 744
+      },
+      {
+        "x": 187,
+        "y": 744
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "word": "Type",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 197,
+        "y": 732
+      },
+      {
+        "x": 228,
+        "y": 733
+      },
+      {
+        "x": 228,
+        "y": 745
+      },
+      {
+        "x": 197,
+        "y": 744
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "word": "here",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 235,
+        "y": 732
+      },
+      {
+        "x": 264,
+        "y": 732
+      },
+      {
+        "x": 264,
+        "y": 744
+      },
+      {
+        "x": 235,
+        "y": 744
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "word": "to",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 270,
+        "y": 734
+      },
+      {
+        "x": 284,
+        "y": 734
+      },
+      {
+        "x": 284,
+        "y": 744
+      },
+      {
+        "x": 270,
+        "y": 744
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "word": "search",
+    "selected": false,
+    "enable": true,
+    "vertices": [
+      {
+        "x": 290,
+        "y": 732
+      },
+      {
+        "x": 334,
+        "y": 733
+      },
+      {
+        "x": 334,
+        "y": 745
+      },
+      {
+        "x": 290,
+        "y": 744
+      }
+    ]
+  }
+]

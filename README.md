@@ -6,7 +6,13 @@ a file upload server, save jpg and json
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python manage.py runserver
+cd app
+python ../manage.py runserver
+```
+### for production debug
+```
+cd app
+python main.py
 ```
 ### for production
 ```

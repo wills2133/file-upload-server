@@ -1,0 +1,52 @@
+[
+  {
+    "number": 0,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 7,
+        "word": "pizza",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 130,
+            "y": 189
+          },
+          {
+            "x": 217,
+            "y": 189
+          },
+          {
+            "x": 217,
+            "y": 226
+          },
+          {
+            "x": 130,
+            "y": 226
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 189,
+        "x": 130
+      },
+      {
+        "y": 189,
+        "x": 217
+      },
+      {
+        "y": 226,
+        "x": 217
+      },
+      {
+        "y": 226,
+        "x": 130
+      }
+    ]
+  }
+]

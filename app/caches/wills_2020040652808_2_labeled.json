@@ -1,0 +1,102 @@
+[
+  {
+    "number": 0,
+    "word": "Steak",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 0,
+        "word": "Steak",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 123,
+            "y": 95
+          },
+          {
+            "x": 258,
+            "y": 90
+          },
+          {
+            "x": 260,
+            "y": 134
+          },
+          {
+            "x": 125,
+            "y": 139
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 95,
+        "x": 123
+      },
+      {
+        "y": 95,
+        "x": 260
+      },
+      {
+        "y": 134,
+        "x": 260
+      },
+      {
+        "y": 134,
+        "x": 123
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "word": "pizza",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 1,
+        "word": "pizza",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 129,
+            "y": 179
+          },
+          {
+            "x": 230,
+            "y": 175
+          },
+          {
+            "x": 232,
+            "y": 220
+          },
+          {
+            "x": 131,
+            "y": 224
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 179,
+        "x": 129
+      },
+      {
+        "y": 179,
+        "x": 232
+      },
+      {
+        "y": 220,
+        "x": 232
+      },
+      {
+        "y": 220,
+        "x": 129
+      }
+    ]
+  }
+]

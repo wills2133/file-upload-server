@@ -1,0 +1,52 @@
+[
+  {
+    "number": 0,
+    "word": "components",
+    "selected": false,
+    "enable": true,
+    "origin": [
+      {
+        "number": 6,
+        "word": "components",
+        "selected": false,
+        "enable": false,
+        "vertices": [
+          {
+            "x": 169,
+            "y": 173
+          },
+          {
+            "x": 259,
+            "y": 171
+          },
+          {
+            "x": 259,
+            "y": 186
+          },
+          {
+            "x": 169,
+            "y": 188
+          }
+        ]
+      }
+    ],
+    "vertices": [
+      {
+        "y": 173,
+        "x": 169
+      },
+      {
+        "y": 173,
+        "x": 259
+      },
+      {
+        "y": 186,
+        "x": 259
+      },
+      {
+        "y": 186,
+        "x": 169
+      }
+    ]
+  }
+]
